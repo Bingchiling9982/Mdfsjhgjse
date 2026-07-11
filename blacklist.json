@@ -1,5 +1,9 @@
 {
-  "blacklist": [],
-  "lastUpdated": "2026-07-11T01:08:12.717Z",
-  "version": "1.0"
+  "blacklist": [
+    {
+      "deviceId": "DEV-EXAMP123",
+      "deviceHash": "9F8E7D6C5B4A3F",
+      "reason": "Banned by system administrator"
+    }
+  ]
 }
