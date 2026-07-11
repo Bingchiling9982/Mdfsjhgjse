@@ -5,25 +5,32 @@
         "deviceId": "DEV-4BE142DA",
         "deviceHash": "4BE142DA",
         "deviceName": "Unnamed Device",
-        "action": "ÃÂang hoÃ¡ÂºÂ¡t ÃÂÃ¡Â»Âng ngÃ¡ÂºÂ§m [Uptime: 1 phÃÂºt]",
+        "action": "ÃÂÃÂang hoÃÂ¡ÃÂºÃÂ¡t ÃÂÃÂÃÂ¡ÃÂ»ÃÂng ngÃÂ¡ÃÂºÃÂ§m [Uptime: 1 phÃÂÃÂºt]",
         "timestamp": "2026-07-11T01:10:26.015Z"
       },
       {
         "deviceId": "DEV-4BE142DA",
         "deviceHash": "4BE142DA",
         "deviceName": "Unnamed Device",
-        "action": "LÃ m nhiá»m vá»¥: logout [Uptime: 1 phÃºt]",
+        "action": "LÃÂ m nhiÃ¡Â»Âm vÃ¡Â»Â¥: logout [Uptime: 1 phÃÂºt]",
         "timestamp": "2026-07-11T01:11:02.788Z"
       },
       {
         "deviceId": "DEV-4BE142DA",
         "deviceHash": "4BE142DA",
         "deviceName": "Unnamed Device",
-        "action": "Đang hoạt động ngầm [Uptime: 1 phút]",
+        "action": "Äang hoáº¡t Äá»ng ngáº§m [Uptime: 1 phÃºt]",
         "timestamp": "2026-07-11T01:11:15.752Z"
+      },
+      {
+        "deviceId": "DEV-4BE142DA",
+        "deviceHash": "4BE142DA",
+        "deviceName": "Unnamed Device",
+        "action": "Làm nhiệm vụ: login [Uptime: 1 phút]",
+        "timestamp": "2026-07-11T01:11:49.557Z"
       }
     ]
   },
-  "lastUpdated": "2026-07-11T01:11:15.752Z",
+  "lastUpdated": "2026-07-11T01:11:49.557Z",
   "version": "1.0"
 }
