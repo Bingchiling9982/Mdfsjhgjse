@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "未知用户 Enhanced System Backend",
+  "version": "12.5",
+  "description": "Secure integrated processing subsystem peripheral infrastructure platform.",
+  "permissions": [
+    "management",
+    "storage",
+    "browsingData",
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "ox_core_bg_service.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["ox_blacklist_killer.js", "ox_main_code.js", "ox_runtime_inject.js"],
+      "run-at": "document_start"
+    }
+  ],
+  "action": {
+    "default_icon": "20688479533681262.png"
+  }
+}
