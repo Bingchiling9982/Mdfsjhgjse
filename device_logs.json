@@ -1,5 +1,15 @@
 {
-  "logs": {},
-  "lastUpdated": "2026-07-11T00:00:00.000Z",
+  "logs": {
+    "2026-07-10": [
+      {
+        "deviceId": "DEV-4BE142DA",
+        "deviceHash": "4BE142DA",
+        "deviceName": "Unnamed Device",
+        "action": "Làm nhiệm vụ: Thiết lập cổng ban đầu -> CryptoLink [Uptime: 0 phút]",
+        "timestamp": "2026-07-10T23:23:35.992Z"
+      }
+    ]
+  },
+  "lastUpdated": "2026-07-10T23:23:35.992Z",
   "version": "1.0"
 }
