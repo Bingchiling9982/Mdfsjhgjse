@@ -8,6 +8,12 @@
       "reason": "Banned by administrator",
       "addedAt": "2026-07-11T10:00:00.000Z",
       "addedBy": "Admin"
+    },
+    {
+      "deviceId": "DEV-ZGF0YTppbWFnZS9w",
+      "deviceName": "Device DEV-ZGF0",
+      "enabled": true,
+      "addedAt": "2026-07-11T20:36:20.127Z"
     }
   ]
 }
