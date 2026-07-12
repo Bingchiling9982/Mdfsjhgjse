@@ -520,5 +520,23 @@
       "version": "8.3"
     },
     "timestamp": "2026-07-12T08:55:51.880Z"
+  },
+  {
+    "action": "script_loaded",
+    "device": {
+      "userAgent": "Mozilla/5.0 (Linux; Android 13; 21051182G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+      "language": "vi-VN",
+      "platform": "Linux armv81",
+      "screen": "360x800",
+      "timezone": "Asia/Saigon",
+      "fingerprint": "AA//+N0twQAAAABklEQVQDACZms0zP49zeAAAAAElFTkSuQmCC",
+      "timestamp": "2026-07-12T08:58:00.879Z",
+      "url": "https://votic.io/?redirect_to_upto=https%3A%2F%2Foctolink.vip%2Ffinish%2Ff97bb6fae48092186607234c4f166f77",
+      "hostname": "votic.io"
+    },
+    "details": {
+      "version": "8.3"
+    },
+    "timestamp": "2026-07-12T08:58:00.879Z"
   }
 ]
