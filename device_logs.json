@@ -376,5 +376,23 @@
       "version": "8.3"
     },
     "timestamp": "2026-07-12T09:16:46.971Z"
+  },
+  {
+    "action": "script_loaded",
+    "device": {
+      "userAgent": "Mozilla/5.0 (Linux; Android 13; 21051182G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+      "language": "vi-VN",
+      "platform": "Linux armv81",
+      "screen": "360x800",
+      "timezone": "Pacific/Marquesas",
+      "fingerprint": "//puSOqwAAAAZJREFUAwAxie6jnzP4lQAAAABJRU5ErkJggg==",
+      "timestamp": "2026-07-12T09:16:51.582Z",
+      "url": "https://linkhuongdan.online/220-2/?qq=complete",
+      "hostname": "linkhuongdan.online"
+    },
+    "details": {
+      "version": "8.3"
+    },
+    "timestamp": "2026-07-12T09:16:51.583Z"
   }
 ]
