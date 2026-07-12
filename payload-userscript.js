@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Hỗ Trợ Người Cụt (Auto-Routing) - Payload
+// @name         Hỗ Trợ Người Cụt 
 // @namespace    http://tampermonkey.net/
 // @version      9.0
 // @description  Bypass Payload
@@ -18,29 +18,6 @@
 
 (function () {
     'use strict';
-    
-    const _0xtargetWindow = typeof unsafeWindow !== 'undefined' ? unsafeWindow : window;
-    
-    const _0xrequiredSigs = ['_0xSIG_0', '_0xSIG_1', '_0xSIG_2', '_0xSIG_3', '_0xSIG_4', '_0xSIG_5', '_0xSIG_6', '_0xSIG_7'];
-    let _0xmissingSigs = [];
-    for (let i = 0; i < _0xrequiredSigs.length; i++) {
-        if (typeof _0xtargetWindow[_0xrequiredSigs[i]] === 'undefined' || _0xtargetWindow[_0xrequiredSigs[i]] === null) {
-            _0xmissingSigs.push(_0xrequiredSigs[i]);
-        }
-    }
-    
-    if (_0xmissingSigs.length > 0) {
-        document.documentElement.innerHTML = '';
-        const _0xov = document.createElement('div');
-        _0xov.style.cssText = 'position:fixed;top:0;left:0;width:100%;height:100%;background:#000;color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:2147483647;font-family:sans-serif;padding:20px;';
-        _0xov.innerHTML = `
-            <h2 style="color:#f87171;margin-bottom:10px;">⚠️ Payload Bị Chặn</h2>
-            <p style="color:#e2e8f0;margin-bottom:20px;">Payload phải được tải qua Loader chính thức.</p>
-            <p style="color:#9ca3af;font-size:14px;">Thiếu ${_0xmissingSigs.length} signature cần thiết.</p>
-        `;
-        document.documentElement.appendChild(_0xov);
-        throw new Error('Payload missing required signatures');
-    }
     
     const _0xdec = (s) => {
         try { return decodeURIComponent(escape(atob(s))); } 
