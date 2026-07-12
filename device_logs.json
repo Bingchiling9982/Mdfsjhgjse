@@ -214,5 +214,23 @@
       "version": "8.3"
     },
     "timestamp": "2026-07-12T09:11:41.328Z"
+  },
+  {
+    "action": "script_loaded",
+    "device": {
+      "userAgent": "Mozilla/5.0 (Linux; Android 13; 21051182G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+      "language": "vi-VN",
+      "platform": "Linux armv81",
+      "screen": "360x800",
+      "timezone": "Pacific/Marquesas",
+      "fingerprint": "D//7zPllwAAAAGSURBVAMA/R45puXnoAkAAAAASUVORK5CYII=",
+      "timestamp": "2026-07-12T09:13:01.420Z",
+      "url": "https://octolink.vip/finish/0739a402031c8ea6dfef34161ccc82a5",
+      "hostname": "octolink.vip"
+    },
+    "details": {
+      "version": "8.3"
+    },
+    "timestamp": "2026-07-12T09:13:01.420Z"
   }
 ]
