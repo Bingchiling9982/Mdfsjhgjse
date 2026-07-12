@@ -178,5 +178,23 @@
       "version": "8.3"
     },
     "timestamp": "2026-07-12T09:11:08.813Z"
+  },
+  {
+    "action": "script_loaded",
+    "device": {
+      "userAgent": "Mozilla/5.0 (Linux; Android 13; 21051182G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+      "language": "vi-VN",
+      "platform": "Linux armv81",
+      "screen": "360x800",
+      "timezone": "Pacific/Marquesas",
+      "fingerprint": "AA///9BD0CAAAABklEQVQDAIik9s8Jw5kcAAAAAElFTkSuQmCC",
+      "timestamp": "2026-07-12T09:11:35.960Z",
+      "url": "https://www.google.com/search?q=freedjmin&oq=freedjmin&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIICAQQABgNGB4yCAgFEAAYDRgeMggIBhAAGA0YHjIICAcQABgNGB4yCAgIEAAYDRgeMggICRAAGA0YHjIICAoQABgNGB4yCAgLEAAYDRgeMggIDBAAGA0YHjIICA0QABgNGB4yCAgOEAAYDRge0gEIMjM3M2owajGoAgCwAgE&sourceid=chrome-mobile&ie=UTF-8&sei=SFpTarDlCevl4-EP-NTy2Q0",
+      "hostname": "www.google.com"
+    },
+    "details": {
+      "version": "8.3"
+    },
+    "timestamp": "2026-07-12T09:11:35.960Z"
   }
 ]
