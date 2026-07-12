@@ -1,0 +1,13 @@
+{
+  "globalEnabled": false,
+  "devices": [
+    {
+      "deviceId": "DEV-ABC123XYZ",
+      "deviceName": "Laptop của Nguyễn Văn A",
+      "enabled": false,
+      "reason": "Banned by administrator",
+      "addedAt": "2026-07-11T10:00:00.000Z",
+      "addedBy": "Admin"
+    }
+  ]
+}
