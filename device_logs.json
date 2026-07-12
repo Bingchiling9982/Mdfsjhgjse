@@ -16,5 +16,23 @@
       "version": "8.3"
     },
     "timestamp": "2026-07-12T08:36:51.828Z"
+  },
+  {
+    "action": "script_loaded",
+    "device": {
+      "userAgent": "Mozilla/5.0 (Linux; Android 13; 21051182G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+      "language": "vi-VN",
+      "platform": "Linux armv81",
+      "screen": "360x800",
+      "timezone": "Asia/Saigon",
+      "fingerprint": "D//8+h35UAAAAGSURBVAMAkwjrTaJjY5YAAAAASUVORK5CYII=",
+      "timestamp": "2026-07-12T08:38:12.436Z",
+      "url": "https://ukrainian.travel/?redirect_to_upto=https%3A%2F%2Foctolink.vip%2Ffinish%2F70cc1942edbfa1445e1f21715b1f165f",
+      "hostname": "ukrainian.travel"
+    },
+    "details": {
+      "version": "8.3"
+    },
+    "timestamp": "2026-07-12T08:38:12.436Z"
   }
 ]
