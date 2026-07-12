@@ -1,4 +1,11 @@
 {
   "globalEnabled": false,
-  "devices": []
+  "devices": [
+    {
+      "deviceId": "DEV-ZGF0YTppbWFnZS9w",
+      "deviceName": "Device DEV-ZGF0",
+      "enabled": true,
+      "addedAt": "2026-07-11T21:51:17.719Z"
+    }
+  ]
 }
