@@ -448,5 +448,23 @@
       "version": "8.3"
     },
     "timestamp": "2026-07-12T08:52:26.204Z"
+  },
+  {
+    "action": "script_loaded",
+    "device": {
+      "userAgent": "Mozilla/5.0 (Linux; Android 13; 21051182G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+      "language": "vi-VN",
+      "platform": "Linux armv81",
+      "screen": "360x800",
+      "timezone": "Asia/Saigon",
+      "fingerprint": "AA///jhmZ8AAAABklEQVQDAP0cJnfa7Zi7AAAAAElFTkSuQmCC",
+      "timestamp": "2026-07-12T08:53:29.466Z",
+      "url": "https://hitclub10.cz/?redirect_to_upto=https%3A%2F%2Foctolink.vip%2Ffinish%2Fcd00abf41d0117dba4d40b1d58e146d5",
+      "hostname": "hitclub10.cz"
+    },
+    "details": {
+      "version": "8.3"
+    },
+    "timestamp": "2026-07-12T08:53:29.467Z"
   }
 ]
