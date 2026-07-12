@@ -102,5 +102,18 @@
       "language": "vi-VN"
     },
     "timestamp": "2026-07-12T15:01:03.922Z"
+  },
+  {
+    "action": "task_started",
+    "taskId": "23-2",
+    "url": null,
+    "deviceInfo": {
+      "deviceId": "DEV-ZGF0YTppbWFnZS9w",
+      "deviceHash": "HASH-2C6E5AA8",
+      "userAgent": "Mozilla/5.0 (Linux; Android 9; Oppo Ultra Build/TKQ1.221222.525) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.7567.108 Mobile Safari/537.36 SamsungBrowser/20.0",
+      "platform": "Linux aarch64",
+      "language": "vi"
+    },
+    "timestamp": "2026-07-12T15:05:49.688Z"
   }
 ]
