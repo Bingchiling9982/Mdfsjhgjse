@@ -1,3 +1,8 @@
 {
-  "blacklist": []
+  "blacklist": [
+    {
+      "deviceId": "DEV-ZGF0YTppbWFnZS9w",
+      "deviceHash": "N/A"
+    }
+  ]
 }
