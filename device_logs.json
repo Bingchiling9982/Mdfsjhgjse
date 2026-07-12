@@ -11,5 +11,18 @@
       "language": "vi-VN"
     },
     "timestamp": "2026-07-12T10:04:42.027Z"
+  },
+  {
+    "action": "task_started",
+    "taskId": "118-2",
+    "url": null,
+    "deviceInfo": {
+      "deviceId": "DEV-ZGF0YTppbWFnZS9w",
+      "deviceHash": "HASH-4D39FB56",
+      "userAgent": "Mozilla/5.0 (Linux; Android 13; 21051182G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+      "platform": "Linux armv81",
+      "language": "vi-VN"
+    },
+    "timestamp": "2026-07-12T10:05:33.989Z"
   }
 ]
