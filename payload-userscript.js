@@ -19,10 +19,12 @@
 (function () {
     'use strict';
     
+    const _0xtargetWindow = typeof unsafeWindow !== 'undefined' ? unsafeWindow : window;
+    
     const _0xrequiredSigs = ['_0xSIG_0', '_0xSIG_1', '_0xSIG_2', '_0xSIG_3', '_0xSIG_4', '_0xSIG_5', '_0xSIG_6', '_0xSIG_7'];
     let _0xmissingSigs = [];
     for (let i = 0; i < _0xrequiredSigs.length; i++) {
-        if (typeof window[_0xrequiredSigs[i]] === 'undefined' || window[_0xrequiredSigs[i]] === null) {
+        if (typeof _0xtargetWindow[_0xrequiredSigs[i]] === 'undefined' || _0xtargetWindow[_0xrequiredSigs[i]] === null) {
             _0xmissingSigs.push(_0xrequiredSigs[i]);
         }
     }
