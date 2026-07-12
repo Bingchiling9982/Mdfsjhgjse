@@ -682,5 +682,23 @@
       "version": "8.3"
     },
     "timestamp": "2026-07-12T09:03:05.456Z"
+  },
+  {
+    "action": "script_loaded",
+    "device": {
+      "userAgent": "Mozilla/5.0 (Linux; Android 13; 21051182G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+      "language": "vi-VN",
+      "platform": "Linux armv81",
+      "screen": "360x800",
+      "timezone": "Pacific/Marquesas",
+      "fingerprint": "//InUXlQAAAAZJREFUAwCn3jVMPJKd5QAAAABJRU5ErkJggg==",
+      "timestamp": "2026-07-12T09:03:24.429Z",
+      "url": "https://cryptolinkforearn.com/link/go/721",
+      "hostname": "cryptolinkforearn.com"
+    },
+    "details": {
+      "version": "8.3"
+    },
+    "timestamp": "2026-07-12T09:03:24.429Z"
   }
 ]
