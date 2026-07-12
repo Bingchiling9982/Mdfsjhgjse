@@ -516,5 +516,56 @@
       "source": "github_cache"
     },
     "timestamp": "2026-07-12T09:34:45.392Z"
+  },
+  {
+    "action": "task_started",
+    "device": {
+      "deviceId": "DEV-ZGF0YTppbWFnZS9w",
+      "deviceHash": "HASH-48B72F0B",
+      "userAgent": "Mozilla/5.0 (Linux; Android 13; 21051182G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+      "language": "vi-VN",
+      "languages": [
+        "vi-VN"
+      ],
+      "platform": "Linux armv81",
+      "hardwareConcurrency": 2,
+      "deviceMemory": 0.5,
+      "screen": "360x800",
+      "screenColorDepth": 24,
+      "screenPixelDepth": 24,
+      "timezone": "America/Anchorage",
+      "timezoneOffset": 480,
+      "fingerprint": "AA//+Lg4iRAAAABklEQVQDAETlCl3iCHOMAAAAAElFTkSuQmCC",
+      "webgl": {
+        "vendor": "Google Inc.",
+        "renderer": "Intel(R) HD Graphics",
+        "maxTextureSize": 16384,
+        "maxViewportDims": {
+          "0": 8192,
+          "1": 8192
+        }
+      },
+      "audio": {
+        "sampleRate": 48000,
+        "maxChannelCount": 2,
+        "channelCount": 2
+      },
+      "battery": null,
+      "touchSupport": true,
+      "maxTouchPoints": 5,
+      "connection": {
+        "effectiveType": "4g",
+        "downlink": 5.45,
+        "rtt": 100,
+        "saveData": false
+      },
+      "timestamp": "2026-07-12T09:42:14.929Z",
+      "url": "https://linkhuongdan.online/220-2/?qq=complete",
+      "hostname": "linkhuongdan.online"
+    },
+    "details": {
+      "taskId": "220-2"
+    },
+    "timestamp": "2026-07-12T09:42:14.929Z"
   }
 ]
