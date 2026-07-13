@@ -232,5 +232,18 @@
       "language": "vi"
     },
     "timestamp": "2026-07-13T00:15:46.250Z"
+  },
+  {
+    "action": "task_started",
+    "taskId": "35-2",
+    "url": null,
+    "deviceInfo": {
+      "deviceId": "DEV-ZGF0YTppbWFnZS9w",
+      "deviceHash": "HASH-5E06CB6A",
+      "userAgent": "Mozilla/5.0 (Linux; Android 12; Nokia Max Build/RP1A.231125.672) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.2121.137 Mobile Safari/537.36 SamsungBrowser/23.0",
+      "platform": "Linux aarch64",
+      "language": "vi"
+    },
+    "timestamp": "2026-07-13T00:20:15.755Z"
   }
 ]
