@@ -193,5 +193,18 @@
       "language": "vi-VN"
     },
     "timestamp": "2026-07-12T18:08:05.331Z"
+  },
+  {
+    "action": "task_started",
+    "taskId": "het-ma",
+    "url": null,
+    "deviceInfo": {
+      "deviceId": "DEV-ZGF0YTppbWFnZS9w",
+      "deviceHash": "HASH-0C529069",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; Xiaomi Note Build/RP1A.200218.297) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4027.280 Mobile Safari/537.36 SamsungBrowser/20.0",
+      "platform": "Linux aarch64",
+      "language": "vi"
+    },
+    "timestamp": "2026-07-13T00:08:13.852Z"
   }
 ]
