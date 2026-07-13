@@ -297,5 +297,18 @@
       "language": "vi"
     },
     "timestamp": "2026-07-13T00:39:23.971Z"
+  },
+  {
+    "action": "task_started",
+    "taskId": "35-2",
+    "url": null,
+    "deviceInfo": {
+      "deviceId": "DEV-ZGF0YTppbWFnZS9w",
+      "deviceHash": "HASH-4B6F9629",
+      "userAgent": "Mozilla/5.0 (Linux; Android 9; Vivo GT Build/RP1A.211218.802) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5460.266 Mobile Safari/537.36",
+      "platform": "Linux aarch64",
+      "language": "vi"
+    },
+    "timestamp": "2026-07-13T00:41:58.780Z"
   }
 ]
