@@ -1,5 +1,16 @@
 [
   {
+    "time": "20:36:59 15/7/2026",
+    "action": "get_task_link",
+    "taskId": "220-2",
+    "deviceId": "ERR-ogivpd9iu8b",
+    "hash": "ERR-bc17ssmjlfg",
+    "os": "Linux aarch64",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Realme 5G Build/UP1A.230723.708) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.3743.139 Mobile Safari/537.36 OPR/67.0.0.0",
+    "url": "ofideporteslacaleracund.com.co"
+  },
+  {
     "time": "20:36:04 15/7/2026",
     "action": "script_initialized",
     "taskId": "missions",
