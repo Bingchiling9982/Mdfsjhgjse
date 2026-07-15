@@ -1,5 +1,16 @@
 [
   {
+    "time": "20:41:33 15/7/2026",
+    "action": "script_loaded",
+    "taskId": "220-2",
+    "deviceId": "ec68253a-542d-466d-ba86-5270a2a46635",
+    "hash": "FAKE-842ca5f44830b03f2145b2d13860ee5ff2215ea6393fb62d186910352aaad08e",
+    "os": "Linux aarch64",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Realme 5G Build/UP1A.230723.708) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.3743.139 Mobile Safari/537.36 OPR/67.0.0.0",
+    "url": "N/A"
+  },
+  {
     "time": "20:41:23 15/7/2026",
     "action": "script_loaded",
     "taskId": "cWk2",
