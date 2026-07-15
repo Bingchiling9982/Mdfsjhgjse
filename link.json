@@ -1,6 +1,7 @@
 {
   "enabled": true,
   "redirects": {
-    "test-1784110665858": "example.com"
+    "test-1784110665858": "example.com",
+    "135-2": "okidokikids.nl"
   }
 }
