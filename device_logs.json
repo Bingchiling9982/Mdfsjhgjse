@@ -1,5 +1,16 @@
 [
   {
+    "time": "20:59:54 16/7/2026",
+    "action": "device_id_reset",
+    "taskId": "135-2",
+    "deviceId": "862daa21-cf5b-4a67-819f-cf65521bdefa",
+    "hash": "6b2f8f60594361ee0637ef4e540dd54265d82abe9994bf9bb511d0993eb8d628",
+    "os": "Linux armv81",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "20:51:15 16/7/2026",
     "action": "bypass_started",
     "taskId": "e3f91fcdb1b3f2667342a5eabba98670",
