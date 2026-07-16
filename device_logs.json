@@ -1,5 +1,16 @@
 [
   {
+    "time": "22:26:29 16/7/2026",
+    "action": "bypass_blocked",
+    "taskId": "69-2",
+    "deviceId": "896030b3-6dc8-43d5-94e7-d1339b78469c",
+    "hash": "04a2e8c19610c985af28c4185d72428a7caf7f121c0dcdde8bdfd913ae594762",
+    "os": "Linux armv81",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "22:26:26 16/7/2026",
     "action": "bypass_blocked",
     "taskId": "69-2",
