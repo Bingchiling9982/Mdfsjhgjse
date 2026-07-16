@@ -1,5 +1,16 @@
 [
   {
+    "time": "22:25:44 16/7/2026",
+    "action": "device_id_reset",
+    "taskId": "89-2",
+    "deviceId": "938d576e-30dd-4fbc-b6f3-cfeb3e63b6f0",
+    "hash": "FAKE-a50b60624373e1f89f324ea6cf210679fca7e2faf178035b6efb4598e5ea4df7",
+    "os": "Linux aarch64",
+    "lang": "ru-RU",
+    "ua": "Mozilla/5.0 (Linux; Android 12; Nokia Note Build/RP1A.230328.242) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.5146.224 Mobile Safari/537.36 SamsungBrowser/15.0",
+    "url": "N/A"
+  },
+  {
     "time": "22:24:59 16/7/2026",
     "action": "device_id_reset",
     "taskId": "89-2",
