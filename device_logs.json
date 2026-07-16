@@ -1,5 +1,16 @@
 [
   {
+    "time": "20:45:39 16/7/2026",
+    "action": "script_initialized",
+    "taskId": "N/A",
+    "deviceId": "4d637ce5-81b4-4063-aa79-191a5f1ae313",
+    "hash": "cb1653b8747becd8aab3272771101311c01fb580df1d04403ae62d3e98580be3",
+    "os": "Linux aarch64",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 12; Infinix Focus Build/UP1A.220915.827) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6731.106 Mobile Safari/537.36 SamsungBrowser/21.0",
+    "url": "N/A"
+  },
+  {
     "time": "20:28:48 16/7/2026",
     "action": "device_id_reset",
     "taskId": "90-2",
