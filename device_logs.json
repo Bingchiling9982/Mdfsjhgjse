@@ -1,5 +1,16 @@
 [
   {
+    "time": "08:46:11 16/7/2026",
+    "action": "device_id_reset",
+    "taskId": "register",
+    "deviceId": "eea80c3a-6315-40bf-87d6-6e2994495d05",
+    "hash": "7b6369f21d206fec8324ba03e1be63ab35a047cd17331dcc6d3c0acb7daac39d",
+    "os": "Linux aarch64",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Sony Plus Build/SKQ1.220213.621) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.2234.59 Mobile Safari/537.36 OPR/72.0.0.0",
+    "url": "N/A"
+  },
+  {
     "time": "08:44:45 16/7/2026",
     "action": "bypass_blocked",
     "taskId": "het-ma",
