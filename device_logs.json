@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "time": "20:28:03 16/7/2026",
+    "action": "device_id_reset",
+    "taskId": "90-2",
+    "deviceId": "3cd6365a-e876-4022-bc65-07ae4fece0c8",
+    "hash": "be01999dbc2bc08594dd9c2ac43b789b5aadebf78007081791e554e11b537165",
+    "os": "Linux armv81",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+    "url": "N/A"
+  }
+]
