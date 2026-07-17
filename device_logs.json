@@ -1,5 +1,16 @@
 [
   {
+    "time": "14:30:20 17/7/2026",
+    "action": "device_id_reset",
+    "taskId": "69-2",
+    "deviceId": "8a5e9343-9eb2-4198-b8e0-8b481e15fd6c",
+    "hash": "bd0133b44174a3cc0c2a2d06942ff261e9b0f5afec0bc2571cc5092aa82b22cc",
+    "os": "Win32",
+    "lang": "vi",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "14:30:12 17/7/2026",
     "action": "device_id_reset",
     "taskId": "69-2",
@@ -1086,17 +1097,6 @@
     "os": "Linux aarch64",
     "lang": "zh-CN",
     "ua": "Mozilla/5.0 (Linux; Android 14; OnePlus Pro+ Build/SP1A.230327.918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.2237.247 Mobile Safari/537.36 SamsungBrowser/21.0",
-    "url": "N/A"
-  },
-  {
-    "time": "12:42:28 17/7/2026",
-    "action": "device_id_reset",
-    "taskId": "141-2",
-    "deviceId": "a8710659-bdbb-4aee-ba76-d56540663f7e",
-    "hash": "256a5577275489d9b16775493e76bc83f45bb7c4c7aaf93cf1333e352efea5e2",
-    "os": "Linux aarch64",
-    "lang": "en-AU",
-    "ua": "Mozilla/5.0 (Linux; Android 11; Realme Focus Build/TKQ1.221006.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.3843.108 Mobile Safari/537.36",
     "url": "N/A"
   }
 ]
