@@ -1,5 +1,16 @@
 [
   {
+    "time": "14:32:54 17/7/2026",
+    "action": "device_id_reset",
+    "taskId": "58-2",
+    "deviceId": "ef4290d8-4068-4ce5-a869-454e1c00205e",
+    "hash": "5e47ee841256ce6edf31b85d724652ac9887249928f72bd57fe9e5bf4750de71",
+    "os": "Win32",
+    "lang": "vi",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "14:32:51 17/7/2026",
     "action": "script_loaded",
     "taskId": "69-2",
@@ -1086,17 +1097,6 @@
     "os": "Linux aarch64",
     "lang": "en-GB",
     "ua": "Mozilla/5.0 (Linux; Android 9; Vivo GT Build/TP1A.210727.142) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.6673.32 Mobile Safari/537.36 SamsungBrowser/19.0",
-    "url": "N/A"
-  },
-  {
-    "time": "12:47:07 17/7/2026",
-    "action": "device_id_reset",
-    "taskId": "het-ma",
-    "deviceId": "4ea8c3aa-a29f-4e7b-bb0b-d99411cf40de",
-    "hash": "FAKE-7bba1482c6c73efd0ce6c5b6d47fb6e9e36442c8bc5ac1fc4ef83eb438506086",
-    "os": "Linux aarch64",
-    "lang": "en-GB",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Infinix Play Build/UP1A.221219.436) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.3018.222 Mobile Safari/537.36 SamsungBrowser/24.0",
     "url": "N/A"
   }
 ]
