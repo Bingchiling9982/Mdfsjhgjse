@@ -1,5 +1,16 @@
 [
   {
+    "time": "01:18:34 18/7/2026",
+    "action": "script_loaded",
+    "taskId": "220-2",
+    "deviceId": "52f1e218-fe3d-49da-8474-2fa829a0385f",
+    "hash": "8bfabaf241d266e7151ede951f4c997b41f6d70f4853b70f6f494b5dfb3162d3",
+    "os": "Linux aarch64",
+    "lang": "ms-MY",
+    "ua": "Mozilla/5.0 (Linux; Android 11; Sony Neo Build/TP1A.220721.327) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.3982.178 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "01:18:12 18/7/2026",
     "action": "script_loaded",
     "taskId": "het-ma",
@@ -1086,17 +1097,6 @@
     "os": "Linux armv81",
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "00:20:07 18/7/2026",
-    "action": "script_loaded",
-    "taskId": "42-2",
-    "deviceId": "d1d9b112-84ca-4241-9e7e-93252bdaab03",
-    "hash": "FAKE-fb815a7239fa85b393d15a7d5a30372f142706bf78299b512f77f5a04d365c85",
-    "os": "Linux aarch64",
-    "lang": "en-CA",
-    "ua": "Mozilla/5.0 (Linux; Android 10; ZTE Power Build/SKQ1.230311.821) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6245.214 Mobile Safari/537.36 SamsungBrowser/22.0",
     "url": "N/A"
   }
 ]
