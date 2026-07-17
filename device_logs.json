@@ -1,5 +1,16 @@
 [
   {
+    "time": "19:55:39 17/7/2026",
+    "action": "script_loaded",
+    "taskId": "103-2",
+    "deviceId": "620b6e73-4d03-483d-a546-88090d49bc6d",
+    "hash": "FAKE-18a0bff7aef156fa8b6b8a5bc107dd7438aa5630a4b3caebacd3179a05f2cb17",
+    "os": "Linux aarch64",
+    "lang": "ko-KR",
+    "ua": "Mozilla/5.0 (Linux; Android 9; Xiaomi Vision Build/RKQ1.220521.187) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5402.219 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "19:55:09 17/7/2026",
     "action": "script_loaded",
     "taskId": "125-2",
@@ -1083,17 +1094,6 @@
     "taskId": "missions",
     "deviceId": "2c9a6024-40bf-43b9-830d-c451fac40af8",
     "hash": "b1f626ecd680c0c0d4e72e2d65030e68a7b6cfa996c1e3e45a691c563818595c",
-    "os": "Linux aarch64",
-    "lang": "vi-VN",
-    "ua": "Mozilla/5.0 (Linux; Android 11; Xiaomi Lite Build/RP1A.220521.754) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4410.12 Mobile Safari/537.36 OPR/72.0.0.0",
-    "url": "N/A"
-  },
-  {
-    "time": "19:26:38 17/7/2026",
-    "action": "device_id_reset",
-    "taskId": "N/A",
-    "deviceId": "de6664ba-5208-44ef-8bfa-7d0b4807e169",
-    "hash": "a81ff22ff2ff255ae274ca419298661d2b1e0a650286263cf7e3c6bc99598a26",
     "os": "Linux aarch64",
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Linux; Android 11; Xiaomi Lite Build/RP1A.220521.754) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4410.12 Mobile Safari/537.36 OPR/72.0.0.0",
