@@ -1,5 +1,16 @@
 [
   {
+    "time": "02:23:25 18/7/2026",
+    "action": "device_id_reset",
+    "taskId": "220-2",
+    "deviceId": "9b67a197-0be7-4bd1-a4f4-72d77e10f560",
+    "hash": "FAKE-357a7f946204affac6e9d439e20a3ddffa0e7daf7df6b672b78641f8078c1b03",
+    "os": "Win32",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "02:21:46 18/7/2026",
     "action": "device_id_reset",
     "taskId": "220-2",
@@ -1086,17 +1097,6 @@
     "os": "Linux aarch64",
     "lang": "ru-RU",
     "ua": "Mozilla/5.0 (Linux; Android 14; Motorola GT Build/RP1A.210901.673) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4625.164 Mobile Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "01:22:45 18/7/2026",
-    "action": "script_loaded",
-    "taskId": "42-2",
-    "deviceId": "60b4ba5c-c235-4199-b228-d38049cd46cb",
-    "hash": "763731ed32e44529077653585d8427eef2ac11eac8a43b53ea62bce5761bcfa4",
-    "os": "Linux aarch64",
-    "lang": "en-AU",
-    "ua": "Mozilla/5.0 (Linux; Android 12; OnePlus Play Build/RKQ1.210627.500) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.5673.293 Mobile Safari/537.36",
     "url": "N/A"
   }
 ]
