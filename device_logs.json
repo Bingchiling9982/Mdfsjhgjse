@@ -1,5 +1,16 @@
 [
   {
+    "time": "20:06:02 17/7/2026",
+    "action": "device_id_reset",
+    "taskId": "103-2",
+    "deviceId": "2b007209-20ab-43d1-a4d4-4bd23b8d8ef4",
+    "hash": "FAKE-d2e21da24ef1c4262cad67c354e804c3e5af5f953c532515a83f0afc2a7e921c",
+    "os": "Linux aarch64",
+    "lang": "hi-IN",
+    "ua": "Mozilla/5.0 (Linux; Android 14; Realme 5G Build/SKQ1.200819.940) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.6591.158 Mobile Safari/537.36 EdgA/115.0.6591.158",
+    "url": "N/A"
+  },
+  {
     "time": "20:06:00 17/7/2026",
     "action": "device_id_reset",
     "taskId": "103-2",
@@ -1087,16 +1098,5 @@
     "lang": "pt-BR",
     "ua": "Mozilla/5.0 (Linux; Android 9; Realme Neo Build/RP1A.210816.792) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.4867.100 Mobile Safari/537.36 SamsungBrowser/15.0",
     "url": "unali.io"
-  },
-  {
-    "time": "19:36:41 17/7/2026",
-    "action": "script_loaded",
-    "taskId": "125-2",
-    "deviceId": "784314be-89e7-4cac-bf32-5b8f9cb73393",
-    "hash": "d55e5a6b1106c45a6a763761d0a16b55c0b1eca91a3cd4fc0fc9a6321c09296b",
-    "os": "Linux aarch64",
-    "lang": "pt-BR",
-    "ua": "Mozilla/5.0 (Linux; Android 9; Realme Neo Build/RP1A.210816.792) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.4867.100 Mobile Safari/537.36 SamsungBrowser/15.0",
-    "url": "N/A"
   }
 ]
