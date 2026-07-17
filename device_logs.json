@@ -1,5 +1,16 @@
 [
   {
+    "time": "00:10:10 18/7/2026",
+    "action": "device_id_reset",
+    "taskId": "164-2",
+    "deviceId": "efdb7e93-d248-4f32-9e69-71bb9e7b0426",
+    "hash": "44cdcd27feba4f9c5e99fa050290a99078a8c6df09bffdf09302533e550d9846",
+    "os": "Linux aarch64",
+    "lang": "th-TH",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Asus Pro+ Build/TKQ1.220226.560) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5805.256 Mobile Safari/537.36 SamsungBrowser/24.0",
+    "url": "N/A"
+  },
+  {
     "time": "00:08:56 18/7/2026",
     "action": "script_loaded",
     "taskId": "het-ma",
@@ -1086,17 +1097,6 @@
     "os": "Linux armv81",
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "23:22:35 17/7/2026",
-    "action": "script_loaded",
-    "taskId": "164-2",
-    "deviceId": "cfb08cc3-514a-434d-b82f-930bda8cfbe8",
-    "hash": "3cff094960559812302e93f5b6e497dbcdb2c1aad06df1d8fd772c1a98783747",
-    "os": "Linux aarch64",
-    "lang": "th-TH",
-    "ua": "Mozilla/5.0 (Linux; Android 14; ZTE Lite Build/SKQ1.200318.539) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.3239.129 Mobile Safari/537.36 SamsungBrowser/19.0",
     "url": "N/A"
   }
 ]
