@@ -1,5 +1,16 @@
 [
   {
+    "time": "17:03:02 17/7/2026",
+    "action": "script_loaded",
+    "taskId": "141-2",
+    "deviceId": "38ae713f-477a-43af-89c1-910e06fd8cf0",
+    "hash": "FAKE-20cadea428e49bc5990b3d43c89bc584cb63832812089fe584c6d4cffa5339e5",
+    "os": "Linux aarch64",
+    "lang": "it-IT",
+    "ua": "Mozilla/5.0 (Linux; Android 12; Asus 5G Build/UP1A.210718.617) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.4439.128 Mobile Safari/537.36 EdgA/117.0.4439.128",
+    "url": "N/A"
+  },
+  {
     "time": "17:02:53 17/7/2026",
     "action": "script_loaded",
     "taskId": "69-2",
@@ -1087,16 +1098,5 @@
     "lang": "ar-SA",
     "ua": "Mozilla/5.0 (Linux; Android 10; ZTE Plus Build/SKQ1.221016.174) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.2481.188 Mobile Safari/537.36",
     "url": "okidokikids.nl"
-  },
-  {
-    "time": "16:13:22 17/7/2026",
-    "action": "script_loaded",
-    "taskId": "135-2",
-    "deviceId": "94d22529-45c1-4765-8a18-f2f76302fd03",
-    "hash": "FAKE-5cdd629a8215422481a971c1e03b6654207665040570219f54903ff567dbffcb",
-    "os": "Linux aarch64",
-    "lang": "ar-SA",
-    "ua": "Mozilla/5.0 (Linux; Android 10; ZTE Plus Build/SKQ1.221016.174) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.2481.188 Mobile Safari/537.36",
-    "url": "N/A"
   }
 ]
