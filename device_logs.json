@@ -1,5 +1,16 @@
 [
   {
+    "time": "00:21:10 18/7/2026",
+    "action": "script_loaded",
+    "taskId": "220-2",
+    "deviceId": "32d30251-3a41-42ab-a2dd-39842dafb740",
+    "hash": "1d5d6917d2f183524d076b5566f04a4b6c412dacea625ffe1074188f1e79fc13",
+    "os": "Linux aarch64",
+    "lang": "pt-BR",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Realme Note Build/RP1A.231228.840) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.3957.47 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "00:20:10 18/7/2026",
     "action": "device_id_reset",
     "taskId": "220-2",
@@ -1086,17 +1097,6 @@
     "os": "Linux aarch64",
     "lang": "de-DE",
     "ua": "Mozilla/5.0 (Linux; Android 9; Asus Pro Build/SP1A.230504.923) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.6502.135 Mobile Safari/537.36 EdgA/118.0.6502.135",
-    "url": "N/A"
-  },
-  {
-    "time": "23:34:34 17/7/2026",
-    "action": "script_loaded",
-    "taskId": "220-2",
-    "deviceId": "eca2705a-3919-4d94-bcbe-9a6daaf39920",
-    "hash": "7736b3c9e12926b7505b1eff9d4f7703b81b1a87731ecfed8d437f8097084b42",
-    "os": "Linux aarch64",
-    "lang": "es-ES",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Asus Lite Build/SP1A.211005.254) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.2459.119 Mobile Safari/537.36",
     "url": "N/A"
   }
 ]
