@@ -1,5 +1,16 @@
 [
   {
+    "time": "14:00:13 17/7/2026",
+    "action": "script_loaded",
+    "taskId": "134-2",
+    "deviceId": "87ec01ce-af97-44b0-b9ac-aca931d8e6d0",
+    "hash": "FAKE-f6325e5a9268587b82767b7a6098b54cbd29fc92ce0982f709fae88bb5d6a244",
+    "os": "Linux aarch64",
+    "lang": "ms-MY",
+    "ua": "Mozilla/5.0 (Linux; Android 10; ZTE Pro+ Build/TKQ1.200817.485) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.2696.136 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "13:59:56 17/7/2026",
     "action": "script_loaded",
     "taskId": "69-2",
@@ -1083,17 +1094,6 @@
     "taskId": "69-2",
     "deviceId": "65d385cf-8bc1-4df6-a83b-cf5310c0f1eb",
     "hash": "d5825952ec84011a8e30f24bf917c8758c622d97195de6fef558f30804d42256",
-    "os": "Linux armv81",
-    "lang": "vi-VN",
-    "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "22:41:05 16/7/2026",
-    "action": "bypass_blocked",
-    "taskId": "69-2",
-    "deviceId": "d58065d7-5f26-49d6-89a3-3b7bbd5da90c",
-    "hash": "2b01ba8739380575547fefd4e9dcd43b892c43b0752f174713680ce1ca800062",
     "os": "Linux armv81",
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
