@@ -1,5 +1,16 @@
 [
   {
+    "time": "11:00:01 17/7/2026",
+    "action": "device_id_reset",
+    "taskId": "134-2",
+    "deviceId": "9d637e07-4615-4439-aaa7-29863769a33f",
+    "hash": "b23adef582e30fa7f92ba3c11381e8533f76406175c1dda744fd0be91d88f080",
+    "os": "Linux armv81",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "10:59:36 17/7/2026",
     "action": "device_id_reset",
     "taskId": "het-ma",
