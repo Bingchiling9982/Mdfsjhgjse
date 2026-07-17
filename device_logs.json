@@ -1,5 +1,16 @@
 [
   {
+    "time": "00:03:52 18/7/2026",
+    "action": "device_id_reset",
+    "taskId": "95-2",
+    "deviceId": "fa35d364-66a4-4f01-9434-d715b07c4924",
+    "hash": "e90a5bdcdf5efb30df0cdb73083d181078b0933b57921cf1ff7384024a757070",
+    "os": "Linux armv81",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "00:03:39 18/7/2026",
     "action": "device_id_reset",
     "taskId": "95-2",
@@ -1086,17 +1097,6 @@
     "os": "Linux aarch64",
     "lang": "en-GB",
     "ua": "Mozilla/5.0 (Linux; Android 10; Infinix Focus Build/SKQ1.241105.139) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.2474.12 Mobile Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "23:13:47 17/7/2026",
-    "action": "script_loaded",
-    "taskId": "42-2",
-    "deviceId": "66504cab-ae73-48c4-99e6-9ad65515f8a7",
-    "hash": "2bd1a56f46b06788c4866b92f0e1deea276d1b3c2bb035acb114a35f78aa552e",
-    "os": "Linux aarch64",
-    "lang": "zh-CN",
-    "ua": "Mozilla/5.0 (Linux; Android 12; Xiaomi Power Build/SKQ1.220505.705) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5340.213 Mobile Safari/537.36",
     "url": "N/A"
   }
 ]
