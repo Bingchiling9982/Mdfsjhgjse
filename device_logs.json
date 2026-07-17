@@ -1,5 +1,16 @@
 [
   {
+    "time": "13:41:01 17/7/2026",
+    "action": "script_loaded",
+    "taskId": "23-2",
+    "deviceId": "4ea8c3aa-a29f-4e7b-bb0b-d99411cf40de",
+    "hash": "FAKE-7bba1482c6c73efd0ce6c5b6d47fb6e9e36442c8bc5ac1fc4ef83eb438506086",
+    "os": "Linux aarch64",
+    "lang": "en-GB",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Infinix Play Build/UP1A.221219.436) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.3018.222 Mobile Safari/537.36 SamsungBrowser/24.0",
+    "url": "N/A"
+  },
+  {
     "time": "13:39:29 17/7/2026",
     "action": "script_loaded",
     "taskId": "134-2",
@@ -1080,17 +1091,6 @@
   {
     "time": "22:24:47 16/7/2026",
     "action": "bypass_blocked",
-    "taskId": "69-2",
-    "deviceId": "f80dd4d6-57d0-4d12-a4f5-649987e38693",
-    "hash": "0eae702e91dbcb7c6e39ba32442fe0f9841618df41ec302b08378d07c8cec4a4",
-    "os": "Linux armv81",
-    "lang": "vi-VN",
-    "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "22:24:00 16/7/2026",
-    "action": "device_id_reset",
     "taskId": "69-2",
     "deviceId": "f80dd4d6-57d0-4d12-a4f5-649987e38693",
     "hash": "0eae702e91dbcb7c6e39ba32442fe0f9841618df41ec302b08378d07c8cec4a4",
