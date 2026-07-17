@@ -1,5 +1,16 @@
 [
   {
+    "time": "02:15:58 18/7/2026",
+    "action": "device_id_reset",
+    "taskId": "220-2",
+    "deviceId": "73c1adec-1ade-41be-8dfe-85520ffc9242",
+    "hash": "FAKE-b42f3d953edfbd915804d1a6e38edfb9d7cda0f815fb2729faa3a4e15c79f610",
+    "os": "Linux aarch64",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 9; Xiaomi FE Build/SP1A.220224.102) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.2825.42 Mobile Safari/537.36 SamsungBrowser/24.0",
+    "url": "N/A"
+  },
+  {
     "time": "02:15:51 18/7/2026",
     "action": "device_id_reset",
     "taskId": "220-2",
@@ -1087,16 +1098,5 @@
     "lang": "ms-MY",
     "ua": "Mozilla/5.0 (Linux; Android 11; Sony Neo Build/TP1A.220721.327) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.3982.178 Mobile Safari/537.36",
     "url": "keonhacai.recipes"
-  },
-  {
-    "time": "01:16:30 18/7/2026",
-    "action": "script_loaded",
-    "taskId": "42-2",
-    "deviceId": "bd05ddb9-b5a3-47d6-9ca3-099093922919",
-    "hash": "FAKE-89c833fa30616272ca5986ace79b579d8483e7b22ebca5a7a1ef6eb47703b619",
-    "os": "Linux aarch64",
-    "lang": "ja-JP",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Asus FE Build/TP1A.200909.170) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.7980.10 Mobile Safari/537.36 SamsungBrowser/18.0",
-    "url": "N/A"
   }
 ]
