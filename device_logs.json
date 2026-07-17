@@ -1,5 +1,16 @@
 [
   {
+    "time": "15:14:25 17/7/2026",
+    "action": "script_loaded",
+    "taskId": "69-2",
+    "deviceId": "561a0d85-2e24-482a-997d-ebba44d7fe5b",
+    "hash": "202b264aaae62aeb87d5f864d661d96e099b7da7a5e2c6f3f4965216ca391aca",
+    "os": "Linux aarch64",
+    "lang": "hi-IN",
+    "ua": "Mozilla/5.0 (Linux; Android 11; Asus Focus Build/UP1A.240119.736) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.2056.212 Mobile Safari/537.36 OPR/75.0.0.0",
+    "url": "N/A"
+  },
+  {
     "time": "15:14:19 17/7/2026",
     "action": "device_id_reset",
     "taskId": "78-2",
@@ -1086,17 +1097,6 @@
     "os": "Win32",
     "lang": "vi",
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "14:32:51 17/7/2026",
-    "action": "script_loaded",
-    "taskId": "69-2",
-    "deviceId": "e007ce3a-6638-477d-b471-1d0782945111",
-    "hash": "FAKE-ca56af5eff646561c09c9eb1566af2b409384f58ea6f65c663e26b1b12a9245c",
-    "os": "Linux aarch64",
-    "lang": "de-DE",
-    "ua": "Mozilla/5.0 (Linux; Android 9; Asus Neo Build/SKQ1.240403.584) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6552.230 Mobile Safari/537.36 OPR/78.0.0.0",
     "url": "N/A"
   }
 ]
