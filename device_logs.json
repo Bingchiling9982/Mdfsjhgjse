@@ -1,5 +1,16 @@
 [
   {
+    "time": "02:08:48 18/7/2026",
+    "action": "script_loaded",
+    "taskId": "220-2",
+    "deviceId": "42f45733-bf95-4cd7-b543-87500fccc561",
+    "hash": "FAKE-a3f28bf826205242079cc18741223a63861e6e1cae360f223bfb6152fe5be1b3",
+    "os": "Linux aarch64",
+    "lang": "hi-IN",
+    "ua": "Mozilla/5.0 (Linux; Android 12; Motorola Plus Build/RP1A.210202.834) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.4599.208 Mobile Safari/537.36 EdgA/122.0.4599.208",
+    "url": "N/A"
+  },
+  {
     "time": "02:08:02 18/7/2026",
     "action": "script_loaded",
     "taskId": "220-2",
@@ -1086,17 +1097,6 @@
     "os": "Linux aarch64",
     "lang": "ru-RU",
     "ua": "Mozilla/5.0 (Linux; Android 9; Oppo Vision Build/TKQ1.200926.267) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.7407.67 Mobile Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "01:05:49 18/7/2026",
-    "action": "script_loaded",
-    "taskId": "42-2",
-    "deviceId": "b13def9a-0c52-42d4-8073-59ba8ba88f9e",
-    "hash": "0131e56007706dd858216ed71aea0bf676ed8bfa90140fa892145ffb24b58a71",
-    "os": "Linux aarch64",
-    "lang": "zh-CN",
-    "ua": "Mozilla/5.0 (Linux; Android 14; Nokia Play Build/TP1A.200803.385) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.2965.225 Mobile Safari/537.36 SamsungBrowser/23.0",
     "url": "N/A"
   }
 ]
