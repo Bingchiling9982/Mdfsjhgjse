@@ -1,5 +1,16 @@
 [
   {
+    "time": "00:46:39 18/7/2026",
+    "action": "device_id_reset",
+    "taskId": "164-2",
+    "deviceId": "15732f5b-bf1a-45bd-948e-d9e20f285826",
+    "hash": "FAKE-71a1a140c7a2a6680d6b59fb291afa593f3780b8a7d14af7fe95f45334f35618",
+    "os": "Linux aarch64",
+    "lang": "it-IT",
+    "ua": "Mozilla/5.0 (Linux; Android 13; ZTE 5G Build/TKQ1.220321.330) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.3361.70 Mobile Safari/537.36 SamsungBrowser/17.0",
+    "url": "N/A"
+  },
+  {
     "time": "00:46:26 18/7/2026",
     "action": "device_id_reset",
     "taskId": "220-2",
@@ -1087,16 +1098,5 @@
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "url": "keonhacai.recipes"
-  },
-  {
-    "time": "23:56:23 17/7/2026",
-    "action": "script_loaded",
-    "taskId": "163-2",
-    "deviceId": "73a5bf8f-3de9-47d5-a9d4-0ddf7b346757",
-    "hash": "204a326b4264f4b80ad1d6ebfa3b831bccb442cc6191b84a9b3c1b827f0b19cf",
-    "os": "Linux aarch64",
-    "lang": "de-DE",
-    "ua": "Mozilla/5.0 (Linux; Android 13; Realme Neo Build/UP1A.201222.679) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.3104.123 Mobile Safari/537.36",
-    "url": "N/A"
   }
 ]
