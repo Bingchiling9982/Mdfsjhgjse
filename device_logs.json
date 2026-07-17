@@ -1,5 +1,16 @@
 [
   {
+    "time": "16:10:49 17/7/2026",
+    "action": "script_loaded",
+    "taskId": "134-2",
+    "deviceId": "94d22529-45c1-4765-8a18-f2f76302fd03",
+    "hash": "FAKE-5cdd629a8215422481a971c1e03b6654207665040570219f54903ff567dbffcb",
+    "os": "Linux aarch64",
+    "lang": "ar-SA",
+    "ua": "Mozilla/5.0 (Linux; Android 10; ZTE Plus Build/SKQ1.221016.174) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.2481.188 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "16:10:05 17/7/2026",
     "action": "script_loaded",
     "taskId": "69-2",
@@ -1086,17 +1097,6 @@
     "os": "Linux aarch64",
     "lang": "th-TH",
     "ua": "Mozilla/5.0 (Linux; Android 14; Oppo Focus Build/TP1A.210517.658) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5105.181 Mobile Safari/537.36 OPR/74.0.0.0",
-    "url": "N/A"
-  },
-  {
-    "time": "15:23:34 17/7/2026",
-    "action": "script_loaded",
-    "taskId": "69-2",
-    "deviceId": "9c443128-4cac-4b57-8f50-43d738302441",
-    "hash": "FAKE-5f4559127e4f3c894013999b5d7be1133f7ef99cbdb1792a0629aa463993b55c",
-    "os": "Linux aarch64",
-    "lang": "vi-VN",
-    "ua": "Mozilla/5.0 (Linux; Android 14; OnePlus 5G Build/TP1A.220120.424) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.2064.35 Mobile Safari/537.36",
     "url": "N/A"
   }
 ]
