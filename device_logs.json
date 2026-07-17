@@ -1,5 +1,16 @@
 [
   {
+    "time": "01:20:33 18/7/2026",
+    "action": "device_id_reset",
+    "taskId": "164-2",
+    "deviceId": "60b4ba5c-c235-4199-b228-d38049cd46cb",
+    "hash": "763731ed32e44529077653585d8427eef2ac11eac8a43b53ea62bce5761bcfa4",
+    "os": "Linux aarch64",
+    "lang": "en-AU",
+    "ua": "Mozilla/5.0 (Linux; Android 12; OnePlus Play Build/RKQ1.210627.500) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.5673.293 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "01:20:25 18/7/2026",
     "action": "device_id_reset",
     "taskId": "220-2",
@@ -1086,17 +1097,6 @@
     "os": "Linux armv81",
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "00:21:10 18/7/2026",
-    "action": "script_loaded",
-    "taskId": "220-2",
-    "deviceId": "32d30251-3a41-42ab-a2dd-39842dafb740",
-    "hash": "1d5d6917d2f183524d076b5566f04a4b6c412dacea625ffe1074188f1e79fc13",
-    "os": "Linux aarch64",
-    "lang": "pt-BR",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Realme Note Build/RP1A.231228.840) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.3957.47 Mobile Safari/537.36",
     "url": "N/A"
   }
 ]
