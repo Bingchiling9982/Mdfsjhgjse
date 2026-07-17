@@ -1,5 +1,16 @@
 [
   {
+    "time": "01:02:05 18/7/2026",
+    "action": "script_loaded",
+    "taskId": "164-2",
+    "deviceId": "61a19b5a-ed32-40ea-9ade-fdf3e22d6f7f",
+    "hash": "cf2ddd24c20058a5d3cfb4176805e89b380cf450da8cb715ebb7fa1e2fee1472",
+    "os": "Linux aarch64",
+    "lang": "ru-RU",
+    "ua": "Mozilla/5.0 (Linux; Android 9; Oppo Vision Build/TKQ1.200926.267) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.7407.67 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "01:02:01 18/7/2026",
     "action": "script_loaded",
     "taskId": "220-2",
@@ -1087,16 +1098,5 @@
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "url": "N/A"
-  },
-  {
-    "time": "00:07:46 18/7/2026",
-    "action": "get_task_link",
-    "taskId": "220-2",
-    "deviceId": "f5dfd0be-e7bd-48c5-b21f-106d453fb453",
-    "hash": "FAKE-f1c0fdddfbf53beb9fc06ed75cda3912ba4866ee553e38e93597720a32e8ab88",
-    "os": "Linux aarch64",
-    "lang": "en-CA",
-    "ua": "Mozilla/5.0 (Linux; Android 10; OnePlus Plus Build/SP1A.241008.975) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.2278.206 Mobile Safari/537.36 OPR/75.0.0.0",
-    "url": "pitstopcaraccessories.in"
   }
 ]
