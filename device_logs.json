@@ -1,5 +1,16 @@
 [
   {
+    "time": "23:21:02 17/7/2026",
+    "action": "device_id_reset",
+    "taskId": "164-2",
+    "deviceId": "fc678caa-83c8-4d57-a383-11dda8fd006e",
+    "hash": "1f77e7657e4fa5b638815eae96e8dd535c4caffe6569b3d978bbec744273bb0a",
+    "os": "Linux armv81",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "23:20:51 17/7/2026",
     "action": "script_loaded",
     "taskId": "95-2",
@@ -1086,17 +1097,6 @@
     "os": "Linux aarch64",
     "lang": "ru-RU",
     "ua": "Mozilla/5.0 (Linux; Android 9; ZTE Pro Build/SP1A.231013.811) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.4459.28 Mobile Safari/537.36 EdgA/121.0.4459.28",
-    "url": "N/A"
-  },
-  {
-    "time": "20:45:44 17/7/2026",
-    "action": "script_loaded",
-    "taskId": "het-ma",
-    "deviceId": "45ca99dd-5f89-4070-855e-04ce9277b41d",
-    "hash": "54b22e486f6621ac803edec907e7a96041c81ccc6fe42198f8dc8a698c854e40",
-    "os": "Linux aarch64",
-    "lang": "vi-VN",
-    "ua": "Mozilla/5.0 (Linux; Android 13; Xiaomi Focus Build/UP1A.200926.934) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.4564.109 Mobile Safari/537.36 EdgA/111.0.4564.109",
     "url": "N/A"
   }
 ]
