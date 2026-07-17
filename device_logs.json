@@ -1,5 +1,16 @@
 [
   {
+    "time": "23:57:28 17/7/2026",
+    "action": "get_task_link",
+    "taskId": "163-2",
+    "deviceId": "a49fa151-62dc-487c-b7b8-82c4169cba7d",
+    "hash": "FAKE-3bb60535428675b64ced299d8de8a622411619163367c343d8eb5c1525809e7e",
+    "os": "Win32",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "url": "keonhacai.recipes"
+  },
+  {
     "time": "23:56:23 17/7/2026",
     "action": "script_loaded",
     "taskId": "163-2",
@@ -1079,17 +1090,6 @@
   },
   {
     "time": "23:06:02 17/7/2026",
-    "action": "script_loaded",
-    "taskId": "42-2",
-    "deviceId": "e7db4389-1b0c-43d3-9660-1790f8606204",
-    "hash": "fefc8daf8fb5db619f5bec10a06fc1a8a5d36ffff958c6726b3f39a588094ec1",
-    "os": "Linux aarch64",
-    "lang": "zh-TW",
-    "ua": "Mozilla/5.0 (Linux; Android 12; Oppo Plus Build/TP1A.200603.318) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.7799.169 Mobile Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "23:05:36 17/7/2026",
     "action": "script_loaded",
     "taskId": "42-2",
     "deviceId": "e7db4389-1b0c-43d3-9660-1790f8606204",
