@@ -1,5 +1,16 @@
 [
   {
+    "time": "17:41:03 18/7/2026",
+    "action": "get_task_link",
+    "taskId": "86-2",
+    "deviceId": "ERR-9y7q9gr2jm",
+    "hash": "ERR-d6u9i57boga",
+    "os": "Linux aarch64",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Nokia FE Build/TKQ1.200426.300) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.3178.207 Mobile Safari/537.36 OPR/63.0.0.0",
+    "url": "hutieu17.tv"
+  },
+  {
     "time": "17:40:55 18/7/2026",
     "action": "device_id_reset",
     "taskId": "login",
@@ -1086,17 +1097,6 @@
     "os": "Linux aarch64",
     "lang": "en-US",
     "ua": "Mozilla/5.0 (Linux; Android 13; Realme Power Build/UP1A.230309.744) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.4216.146 Mobile Safari/537.36 SamsungBrowser/21.0",
-    "url": "N/A"
-  },
-  {
-    "time": "17:12:17 18/7/2026",
-    "action": "script_loaded",
-    "taskId": "55-2",
-    "deviceId": "dcdbdeea-6508-408a-8e4d-80cba57fa321",
-    "hash": "FAKE-16915895d62cdcb3bd56b6c069e42392511cdd1ed28797f94716b1fe2a0058ad",
-    "os": "Linux aarch64",
-    "lang": "ar-SA",
-    "ua": "Mozilla/5.0 (Linux; Android 13; Oppo Ultra Build/SKQ1.230321.776) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.6782.130 Mobile Safari/537.36 SamsungBrowser/19.0",
     "url": "N/A"
   }
 ]
