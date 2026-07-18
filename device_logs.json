@@ -1,5 +1,16 @@
 [
   {
+    "time": "18:16:36 18/7/2026",
+    "action": "script_loaded",
+    "taskId": "218-2",
+    "deviceId": "2762140f-aead-4478-9a1f-bd25c81412e9",
+    "hash": "7f207bf0d8c3cf462e57dd54e0de239a9dcd47f860c3c72a42af3760d55266bf",
+    "os": "Linux aarch64",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Sony Power Build/TP1A.210211.208) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.2493.94 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "18:16:19 18/7/2026",
     "action": "script_loaded",
     "taskId": "destination",
@@ -1087,16 +1098,5 @@
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Linux; Android 10; Realme Power Build/SKQ1.220517.852) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5899.172 Mobile Safari/537.36 SamsungBrowser/18.0",
     "url": "https://kiemmoney.com/t/6ea770c0a85a45de7d02fe63d4f5b1d1a7385145ccf608cc871a6e15667d37e8/?qq=earn"
-  },
-  {
-    "time": "17:56:51 18/7/2026",
-    "action": "bypass_started",
-    "taskId": "e121341a9b6af669ee5ee1bb6f14cf0d",
-    "deviceId": "e3e5b398-f323-4f1c-be2d-0c5cc37d1d27",
-    "hash": "FAKE-315ee54484258f9c3a35cc5bb378d39753f2a06827b64653ff82a2ff743f2c40",
-    "os": "Linux aarch64",
-    "lang": "vi-VN",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Realme Power Build/SKQ1.220517.852) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5899.172 Mobile Safari/537.36 SamsungBrowser/18.0",
-    "url": "N/A"
   }
 ]
