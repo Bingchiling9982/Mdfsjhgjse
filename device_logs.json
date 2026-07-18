@@ -1,5 +1,16 @@
 [
   {
+    "time": "18:54:10 18/7/2026",
+    "action": "script_loaded",
+    "taskId": "141-2",
+    "deviceId": "0437698d-4f80-4e81-a80b-562efd494ce0",
+    "hash": "FAKE-711b7af63223a76c905539738606a1abff15d41c5bbb55ce091ae9052cd54665",
+    "os": "Linux aarch64",
+    "lang": "ar-SA",
+    "ua": "Mozilla/5.0 (Linux; Android 14; Oppo Max Build/SP1A.210626.204) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.5959.163 Mobile Safari/537.36 SamsungBrowser/23.0",
+    "url": "N/A"
+  },
+  {
     "time": "18:53:57 18/7/2026",
     "action": "get_task_link",
     "taskId": "86-2",
@@ -1087,16 +1098,5 @@
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Linux; Android 10; Sony Power Build/TP1A.210211.208) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.2493.94 Mobile Safari/537.36",
     "url": "talar.io"
-  },
-  {
-    "time": "18:20:37 18/7/2026",
-    "action": "script_loaded",
-    "taskId": "141-2",
-    "deviceId": "2762140f-aead-4478-9a1f-bd25c81412e9",
-    "hash": "7f207bf0d8c3cf462e57dd54e0de239a9dcd47f860c3c72a42af3760d55266bf",
-    "os": "Linux aarch64",
-    "lang": "vi-VN",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Sony Power Build/TP1A.210211.208) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.2493.94 Mobile Safari/537.36",
-    "url": "N/A"
   }
 ]
