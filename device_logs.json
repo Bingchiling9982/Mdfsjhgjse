@@ -1,5 +1,16 @@
 [
   {
+    "time": "19:03:55 18/7/2026",
+    "action": "script_loaded",
+    "taskId": "destination",
+    "deviceId": "50f2101c-7ab8-4052-8032-9a8d21ddc3e6",
+    "hash": "b3605e1018cbff58a306e31bb937e3fb8f4d57b9b93125f00fc9983db7fa928c",
+    "os": "Linux aarch64",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 11; Nokia 5G Build/RKQ1.221218.209) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.4865.22 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "19:03:49 18/7/2026",
     "action": "script_loaded",
     "taskId": "44-2",
@@ -1087,16 +1098,5 @@
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Linux; Android 9; ZTE Lite Build/SKQ1.200505.798) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.4696.233 Mobile Safari/537.36 OPR/64.0.0.0",
     "url": "N/A"
-  },
-  {
-    "time": "18:38:28 18/7/2026",
-    "action": "bypass_success",
-    "taskId": "7ef505576dc404f3b2190b48fc602fb9",
-    "deviceId": "6f18bdd0-9334-486f-96f6-af46a560e246",
-    "hash": "cebcdf86a7188ef50b66149f4ba0ffb88b93324c34a560f4ef0b77f3b50418fd",
-    "os": "Linux aarch64",
-    "lang": "vi-VN",
-    "ua": "Mozilla/5.0 (Linux; Android 9; ZTE Lite Build/SKQ1.200505.798) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.4696.233 Mobile Safari/537.36 OPR/64.0.0.0",
-    "url": "https://kiemmoney.com/t/c34c05ca4f8bb5b7b92c3b489c697e98b6167a6af40cd3aeafb3546bb11a5984/?qq=earn"
   }
 ]
