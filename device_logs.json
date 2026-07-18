@@ -1,5 +1,16 @@
 [
   {
+    "time": "16:20:10 18/7/2026",
+    "action": "script_loaded",
+    "taskId": "141-2",
+    "deviceId": "0df03d49-a401-4155-b987-ed925d1de65f",
+    "hash": "f7e9f37558afe049b648b4846839ef451f4225f17726afd2203a9503f8a874ca",
+    "os": "Linux armv81",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "16:20:05 18/7/2026",
     "action": "script_loaded",
     "taskId": "78-2",
@@ -1086,17 +1097,6 @@
     "os": "Linux aarch64",
     "lang": "ru-RU",
     "ua": "Mozilla/5.0 (Linux; Android 11; ZTE Focus Build/SKQ1.200708.186) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.6089.83 Mobile Safari/537.36 EdgA/113.0.6089.83",
-    "url": "N/A"
-  },
-  {
-    "time": "15:25:21 18/7/2026",
-    "action": "script_loaded",
-    "taskId": "42-2",
-    "deviceId": "e2bca5b4-6c44-4d80-8ac5-8204aacc7643",
-    "hash": "FAKE-30005740c1060964597d9a00e706c75fe67992fb6779ee8c7eb4a31c728ad661",
-    "os": "Linux aarch64",
-    "lang": "en-US",
-    "ua": "Mozilla/5.0 (Linux; Android 11; Xiaomi Max Build/TKQ1.210614.811) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6838.256 Mobile Safari/537.36 SamsungBrowser/24.0",
     "url": "N/A"
   }
 ]
