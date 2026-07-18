@@ -1,5 +1,16 @@
 [
   {
+    "time": "16:01:31 18/7/2026",
+    "action": "script_loaded",
+    "taskId": "141-2",
+    "deviceId": "3101a7fa-14fb-46fb-aa1e-fadb4e1c371a",
+    "hash": "5be5b6bf272c75a0e2cdf9173b1effa58fee8eae3de9640f1eca85a6049b9810",
+    "os": "Linux aarch64",
+    "lang": "ru-RU",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Infinix Lite Build/UP1A.201207.716) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.3776.102 Mobile Safari/537.36 EdgA/116.0.3776.102",
+    "url": "N/A"
+  },
+  {
     "time": "15:59:12 18/7/2026",
     "action": "device_id_reset",
     "taskId": "55-2",
@@ -1086,17 +1097,6 @@
     "os": "Linux aarch64",
     "lang": "en-CA",
     "ua": "Mozilla/5.0 (Linux; Android 13; Nokia Focus Build/RP1A.240719.717) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.2183.173 Mobile Safari/537.36 SamsungBrowser/21.0",
-    "url": "N/A"
-  },
-  {
-    "time": "15:09:54 18/7/2026",
-    "action": "script_loaded",
-    "taskId": "missions",
-    "deviceId": "a6eea447-97fc-4c89-8dfa-8f38db208266",
-    "hash": "41c365c055585ea88c446c18ed17d5a4b39c9bc0d6526c0b5138425b6c0d4ab8",
-    "os": "iPhone",
-    "lang": "vi-VN",
-    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari/605.1.15",
     "url": "N/A"
   }
 ]
