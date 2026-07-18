@@ -1,5 +1,16 @@
 [
   {
+    "time": "14:13:32 18/7/2026",
+    "action": "script_loaded",
+    "taskId": "125-2",
+    "deviceId": "b3f173e8-1e44-4e67-94eb-2cbda518d01f",
+    "hash": "080060947dd7a62c5cba80dedf49eae3a0fd5f188092c302e16b64b837794d6d",
+    "os": "Linux aarch64",
+    "lang": "es-ES",
+    "ua": "Mozilla/5.0 (Linux; Android 11; Xiaomi Play Build/SP1A.230717.366) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6953.61 Mobile Safari/537.36 EdgA/119.0.6953.61",
+    "url": "N/A"
+  },
+  {
     "time": "14:13:13 18/7/2026",
     "action": "script_loaded",
     "taskId": "missions",
@@ -1086,17 +1097,6 @@
     "os": "iPhone",
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari/605.1.15",
-    "url": "N/A"
-  },
-  {
-    "time": "12:32:17 18/7/2026",
-    "action": "script_loaded",
-    "taskId": "44-2",
-    "deviceId": "e140fc12-b348-4a28-a58b-bb6a2ec14927",
-    "hash": "FAKE-6e84a68a57c30b04c841e5d251a2134bab0f89f33489294950a9976cf4835b79",
-    "os": "Linux aarch64",
-    "lang": "id-ID",
-    "ua": "Mozilla/5.0 (Linux; Android 13; OnePlus Neo Build/TKQ1.201106.791) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.2421.240 Mobile Safari/537.36",
     "url": "N/A"
   }
 ]
