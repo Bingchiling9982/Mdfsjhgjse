@@ -1,5 +1,16 @@
 [
   {
+    "time": "14:36:11 18/7/2026",
+    "action": "device_id_reset",
+    "taskId": "189-2",
+    "deviceId": "e136d2a7-10b6-4efc-b0b1-d58732996782",
+    "hash": "775756253f0d61ee566fbc94cd65238021e8ac59efdd57f68f17b0ea525dd94b",
+    "os": "Linux aarch64",
+    "lang": "vi",
+    "ua": "Mozilla/5.0 (Linux; Android 14; Nokia Play Build/TKQ1.220428.350) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6428.41 Mobile Safari/537.36 OPR/73.0.0.0",
+    "url": "N/A"
+  },
+  {
     "time": "14:35:56 18/7/2026",
     "action": "script_loaded",
     "taskId": "44-2",
@@ -1086,17 +1097,6 @@
     "os": "Linux aarch64",
     "lang": "en-AU",
     "ua": "Mozilla/5.0 (Linux; Android 13; Nokia FE Build/SP1A.220620.233) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.7897.151 Mobile Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "14:04:26 18/7/2026",
-    "action": "script_loaded",
-    "taskId": "125-2",
-    "deviceId": "ed192dcb-248d-472b-b5d4-e2f5fa464041",
-    "hash": "FAKE-53f2474357c0a4336a665f24276e873bb8ab735109e415a78f177692e32f989f",
-    "os": "Linux aarch64",
-    "lang": "en-AU",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Vivo Play Build/TKQ1.230316.843) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4911.233 Mobile Safari/537.36 SamsungBrowser/19.0",
     "url": "N/A"
   }
 ]
