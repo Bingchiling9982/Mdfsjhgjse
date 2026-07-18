@@ -1,5 +1,16 @@
 [
   {
+    "time": "13:50:27 18/7/2026",
+    "action": "script_loaded",
+    "taskId": "destination",
+    "deviceId": "0a124930-3c8d-4de5-a6a3-3af4c6592a09",
+    "hash": "a5b09f780143bb06655aa38c21fc2b1479eaada94fa70f4bf22eaf38b137198f",
+    "os": "iPhone",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari/605.1.15",
+    "url": "N/A"
+  },
+  {
     "time": "13:50:19 18/7/2026",
     "action": "script_loaded",
     "taskId": "het-ma",
@@ -1086,17 +1097,6 @@
     "os": "Win32",
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "02:09:16 18/7/2026",
-    "action": "script_loaded",
-    "taskId": "220-2",
-    "deviceId": "e186480a-aef6-4d5f-a9e4-c95622608b3c",
-    "hash": "a55efb68d7f06182e267b0f49aa4a585d20831fac8d08df8cb0042d90e27fec0",
-    "os": "Linux aarch64",
-    "lang": "ko-KR",
-    "ua": "Mozilla/5.0 (Linux; Android 11; Xiaomi Focus Build/TKQ1.210411.509) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.2065.40 Mobile Safari/537.36 SamsungBrowser/21.0",
     "url": "N/A"
   }
 ]
