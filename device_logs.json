@@ -1,5 +1,16 @@
 [
   {
+    "time": "18:00:39 18/7/2026",
+    "action": "script_loaded",
+    "taskId": "44-2",
+    "deviceId": "0ffe1c04-7c17-4973-9017-da441618c9a6",
+    "hash": "FAKE-538b9ae71bffb962cb4edd52cd788060682fb0c6ddab24f12fcdd63ed0e6152b",
+    "os": "Linux aarch64",
+    "lang": "zh-CN",
+    "ua": "Mozilla/5.0 (Linux; Android 14; Vivo Pro Build/RP1A.210708.857) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.2492.86 Mobile Safari/537.36 EdgA/124.0.2492.86",
+    "url": "N/A"
+  },
+  {
     "time": "17:59:55 18/7/2026",
     "action": "script_loaded",
     "taskId": "86-2",
@@ -1087,16 +1098,5 @@
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Linux; Android 10; Nokia FE Build/TKQ1.200426.300) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.3178.207 Mobile Safari/537.36 OPR/63.0.0.0",
     "url": "N/A"
-  },
-  {
-    "time": "17:40:29 18/7/2026",
-    "action": "get_task_link",
-    "taskId": "135-2",
-    "deviceId": "c96d91e7-6ed4-4764-87b4-d490b83fb5f6",
-    "hash": "2e3a301807b206fe8b1f2f5854040da6931f4830000af4cc238bfffafffab1fb",
-    "os": "Linux aarch64",
-    "lang": "vi-VN",
-    "ua": "Mozilla/5.0 (Linux; Android 14; ZTE Play Build/RP1A.200509.174) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.4208.272 Mobile Safari/537.36 OPR/64.0.0.0",
-    "url": "underarmour.in.net"
   }
 ]
