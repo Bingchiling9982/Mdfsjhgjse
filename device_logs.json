@@ -1,5 +1,16 @@
 [
   {
+    "time": "14:28:02 18/7/2026",
+    "action": "script_loaded",
+    "taskId": "135-2",
+    "deviceId": "b3f173e8-1e44-4e67-94eb-2cbda518d01f",
+    "hash": "080060947dd7a62c5cba80dedf49eae3a0fd5f188092c302e16b64b837794d6d",
+    "os": "Linux aarch64",
+    "lang": "es-ES",
+    "ua": "Mozilla/5.0 (Linux; Android 11; Xiaomi Play Build/SP1A.230717.366) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6953.61 Mobile Safari/537.36 EdgA/119.0.6953.61",
+    "url": "N/A"
+  },
+  {
     "time": "14:27:52 18/7/2026",
     "action": "script_loaded",
     "taskId": "135-2",
@@ -1087,16 +1098,5 @@
     "lang": "en-CA",
     "ua": "Mozilla/5.0 (Linux; Android 10; Nokia Plus Build/RP1A.240519.809) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.3774.94 Mobile Safari/537.36 SamsungBrowser/24.0",
     "url": "N/A"
-  },
-  {
-    "time": "13:48:18 18/7/2026",
-    "action": "get_task_link",
-    "taskId": "58-2",
-    "deviceId": "1c2d39a8-2d5a-4689-a82b-06ff4fb9b6a3",
-    "hash": "9fd53f4864177a4af7d6999a9c47127d69ed54ac968e504aed60b9e64767720d",
-    "os": "Linux aarch64",
-    "lang": "en-CA",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Nokia Plus Build/RP1A.240519.809) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.3774.94 Mobile Safari/537.36 SamsungBrowser/24.0",
-    "url": "Vergoken.nl"
   }
 ]
