@@ -1,5 +1,16 @@
 [
   {
+    "time": "14:00:09 18/7/2026",
+    "action": "get_task_link",
+    "taskId": "75-2",
+    "deviceId": "19de5414-3594-49f7-a50b-c00c6c5c0c5a",
+    "hash": "de5504f0a9e8503d8cd414a9b818dcdc167a69a39f4e44913d46c4f8babc1975",
+    "os": "iPhone",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari/605.1.15",
+    "url": "bicinvaligia.com"
+  },
+  {
     "time": "13:59:31 18/7/2026",
     "action": "device_id_reset",
     "taskId": "58-2",
@@ -1083,17 +1094,6 @@
     "taskId": "220-2",
     "deviceId": "6575baac-37f2-408c-ae71-1f7b02188555",
     "hash": "FAKE-06b7f6c168557fb8a491b099f78dcab5f8b4a1bbafe91baad011b7e572871c59",
-    "os": "Win32",
-    "lang": "vi-VN",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "02:20:09 18/7/2026",
-    "action": "device_id_reset",
-    "taskId": "220-2",
-    "deviceId": "42286080-6707-4196-bf3e-4aee32e1fe2e",
-    "hash": "FAKE-e8302cfa156e3b93d1731de3172127e145f486c69c728a7dbacd94ff4ac182f1",
     "os": "Win32",
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
