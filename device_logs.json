@@ -1,5 +1,16 @@
 [
   {
+    "time": "21:05:49 18/7/2026",
+    "action": "script_loaded",
+    "taskId": "OSIlnKZA",
+    "deviceId": "ce89c088-cd5c-46ec-84d5-b096f934c6bf",
+    "hash": "e7294e90583c4e7a399c8b32507af3fb438428128ebf0dc0b279c4636e5c67ae",
+    "os": "Linux aarch64",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 11; Nokia Plus Build/TKQ1.210124.943) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.4764.223 Mobile Safari/537.36 OPR/78.0.0.0",
+    "url": "N/A"
+  },
+  {
     "time": "21:05:37 18/7/2026",
     "action": "bypass_blocked",
     "taskId": "het-ma",
@@ -1087,16 +1098,5 @@
     "lang": "th-TH",
     "ua": "Mozilla/5.0 (Linux; Android 13; Sony Power Build/SP1A.200525.202) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.2575.11 Mobile Safari/537.36 EdgA/117.0.2575.11",
     "url": "bicinvaligia.com"
-  },
-  {
-    "time": "20:41:42 18/7/2026",
-    "action": "device_id_reset",
-    "taskId": "75-2",
-    "deviceId": "13070a93-a369-4ef5-8320-10328d1b88f4",
-    "hash": "FAKE-f955ca068144b6b014bff5c4c345cd7afa062384201647d0d030bbfcbd5043b0",
-    "os": "Linux aarch64",
-    "lang": "th-TH",
-    "ua": "Mozilla/5.0 (Linux; Android 13; Sony Power Build/SP1A.200525.202) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.2575.11 Mobile Safari/537.36 EdgA/117.0.2575.11",
-    "url": "N/A"
   }
 ]
