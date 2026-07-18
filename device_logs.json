@@ -1,5 +1,16 @@
 [
   {
+    "time": "17:56:56 18/7/2026",
+    "action": "bypass_success",
+    "taskId": "e121341a9b6af669ee5ee1bb6f14cf0d",
+    "deviceId": "e3e5b398-f323-4f1c-be2d-0c5cc37d1d27",
+    "hash": "FAKE-315ee54484258f9c3a35cc5bb378d39753f2a06827b64653ff82a2ff743f2c40",
+    "os": "Linux aarch64",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Realme Power Build/SKQ1.220517.852) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5899.172 Mobile Safari/537.36 SamsungBrowser/18.0",
+    "url": "https://kiemmoney.com/t/6ea770c0a85a45de7d02fe63d4f5b1d1a7385145ccf608cc871a6e15667d37e8/?qq=earn"
+  },
+  {
     "time": "17:56:51 18/7/2026",
     "action": "bypass_started",
     "taskId": "e121341a9b6af669ee5ee1bb6f14cf0d",
@@ -1083,17 +1094,6 @@
     "taskId": "destination",
     "deviceId": "f178ad66-acd7-482a-8597-f517952da3a8",
     "hash": "1738cfca72aedf91c4a553a3542847ce6e1398c496c89bfbce829da70f6d56a7",
-    "os": "Linux aarch64",
-    "lang": "vi-VN",
-    "ua": "Mozilla/5.0 (Linux; Android 14; Nokia Focus Build/RKQ1.241217.550) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.2391.119 Mobile Safari/537.36 SamsungBrowser/17.0",
-    "url": "N/A"
-  },
-  {
-    "time": "17:39:21 18/7/2026",
-    "action": "device_id_reset",
-    "taskId": "missions",
-    "deviceId": "da5a755b-935b-4f37-80d2-7e9041c66cf2",
-    "hash": "9c286bf08bcd1bd0c8dfb4e87294d2064cf9c59f3ac6b1a56f13a7cba50b4497",
     "os": "Linux aarch64",
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Linux; Android 14; Nokia Focus Build/RKQ1.241217.550) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.2391.119 Mobile Safari/537.36 SamsungBrowser/17.0",
