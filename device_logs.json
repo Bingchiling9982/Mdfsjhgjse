@@ -1,5 +1,16 @@
 [
   {
+    "time": "20:38:52 18/7/2026",
+    "action": "get_task_link",
+    "taskId": "75-2",
+    "deviceId": "ERR-cmh7ijmxkw8",
+    "hash": "ERR-mj0n6dyxsm",
+    "os": "Linux aarch64",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 12; Infinix FE Build/TKQ1.220427.789) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5512.116 Mobile Safari/537.36",
+    "url": "bicinvaligia.com"
+  },
+  {
     "time": "20:38:33 18/7/2026",
     "action": "script_loaded",
     "taskId": "destination",
@@ -1086,17 +1097,6 @@
     "os": "Linux aarch64",
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Linux; Android 13; OnePlus GT Build/TP1A.211022.795) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.6977.74 Mobile Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "19:15:07 18/7/2026",
-    "action": "script_loaded",
-    "taskId": "86-2",
-    "deviceId": "9de442cd-9e02-43df-9ccf-3ef422b1ae37",
-    "hash": "965b5c53a70a9cb2c26456c51a47d0905c84f8f9e6ae6fc1e12e9d3e99bb55db",
-    "os": "Linux aarch64",
-    "lang": "ar-SA",
-    "ua": "Mozilla/5.0 (Linux; Android 11; Vivo Ultra Build/RKQ1.200825.921) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4638.170 Mobile Safari/537.36 SamsungBrowser/18.0",
     "url": "N/A"
   }
 ]
