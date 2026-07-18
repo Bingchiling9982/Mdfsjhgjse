@@ -1,3 +1,8 @@
 {
-  "blacklist": []
+  "blacklist": [
+    {
+      "deviceId": "6648ef48-61e2-474d-9f19-2dc67e63bef0",
+      "deviceHash": "FAKE-a18d90b7ec1329ffe8444eb1e0c3e34c7879fca7344c90886beb9cc22ca20f83"
+    }
+  ]
 }
