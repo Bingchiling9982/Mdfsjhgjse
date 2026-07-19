@@ -1,5 +1,16 @@
 [
   {
+    "time": "17:07:23 19/7/2026",
+    "action": "device_id_reset",
+    "taskId": "het-ma",
+    "deviceId": "2d4189d4-0965-47ca-9d69-3f3776c1454b",
+    "hash": "FAKE-d0bd9cc1b56f4e27274129fcbae7e71b8b976153903047d513b6b91f0f2fcfbf",
+    "os": "Win32",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "17:05:55 19/7/2026",
     "action": "device_id_reset",
     "taskId": "218-2",
@@ -1080,17 +1091,6 @@
   {
     "time": "22:40:00 18/7/2026",
     "action": "script_loaded",
-    "taskId": "het-ma",
-    "deviceId": "355284b0-5658-4672-bac8-a1927c185823",
-    "hash": "8070a32f831d4dcfd29d21170ec9cb25f447c68dac14cc549a1d55d2a0f1b515",
-    "os": "Linux aarch64",
-    "lang": "vi-VN",
-    "ua": "Mozilla/5.0 (Linux; Android 11; Nokia Plus Build/TKQ1.210124.943) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.4764.223 Mobile Safari/537.36 OPR/78.0.0.0",
-    "url": "N/A"
-  },
-  {
-    "time": "22:39:29 18/7/2026",
-    "action": "bypass_blocked",
     "taskId": "het-ma",
     "deviceId": "355284b0-5658-4672-bac8-a1927c185823",
     "hash": "8070a32f831d4dcfd29d21170ec9cb25f447c68dac14cc549a1d55d2a0f1b515",
