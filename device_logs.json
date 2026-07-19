@@ -1,5 +1,16 @@
 [
   {
+    "time": "17:15:09 19/7/2026",
+    "action": "device_id_reset",
+    "taskId": "218-2",
+    "deviceId": "ac6df1f4-a2dc-485b-a3d0-c65a1b1236fc",
+    "hash": "FAKE-a49c9886e2c600d1d718a5d307604df6ec0a02b095ccaa7e2f81eb8f51427156",
+    "os": "Win32",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "17:13:30 19/7/2026",
     "action": "device_id_reset",
     "taskId": "44-2",
@@ -1086,17 +1097,6 @@
     "os": "Linux armv81",
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "23:51:26 18/7/2026",
-    "action": "script_loaded",
-    "taskId": "het-ma",
-    "deviceId": "6648ef48-61e2-474d-9f19-2dc67e63bef0",
-    "hash": "FAKE-a18d90b7ec1329ffe8444eb1e0c3e34c7879fca7344c90886beb9cc22ca20f83",
-    "os": "Linux aarch64",
-    "lang": "zh-TW",
-    "ua": "Mozilla/5.0 (Linux; Android 11; Infinix FE Build/SKQ1.230607.743) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.6659.50 Mobile Safari/537.36 EdgA/113.0.6659.50",
     "url": "N/A"
   }
 ]
