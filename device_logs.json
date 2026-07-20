@@ -1,5 +1,16 @@
 [
   {
+    "time": "17:22:05 20/7/2026",
+    "action": "device_id_reset",
+    "taskId": "missions",
+    "deviceId": "78099220-02df-4d9d-8a29-43a15afd4a77",
+    "hash": "87e747a71c7160c16e3889f633ec907f7bcb5d9e4e1cf48deda7a8e6511c8453",
+    "os": "Linux aarch64",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Linux; Android 14; Oppo Neo Build/TP1A.230519.756) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.5027.284 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "17:21:49 20/7/2026",
     "action": "device_id_reset",
     "taskId": "login",
@@ -1086,17 +1097,6 @@
     "os": "Win32",
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "16:12:06 20/7/2026",
-    "action": "script_loaded",
-    "taskId": "44-2",
-    "deviceId": "441e88fa-fd42-466e-990f-d01e1916c462",
-    "hash": "FAKE-69e49fe1ea3160ccfdac00d83f0cd4090bb753e486a8f0a93d5babbf3ad48654",
-    "os": "Linux aarch64",
-    "lang": "en-CA",
-    "ua": "Mozilla/5.0 (Linux; Android 9; Nokia Note Build/UP1A.210714.976) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.4205.191 Mobile Safari/537.36",
     "url": "N/A"
   }
 ]
