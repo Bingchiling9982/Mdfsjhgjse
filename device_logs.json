@@ -1,5 +1,16 @@
 [
   {
+    "time": "20:07:51 20/7/2026",
+    "action": "device_id_reset",
+    "taskId": "218-4",
+    "deviceId": "7332c34e-0a73-4726-bc60-e1d7281c2347",
+    "hash": "FAKE-4fd59786587badf0bca555f710eb369b969dab89be39a3456849fde78622c391",
+    "os": "Win32",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "20:07:45 20/7/2026",
     "action": "device_id_reset",
     "taskId": "218-4",
@@ -1086,17 +1097,6 @@
     "os": "Linux aarch64",
     "lang": "en-US",
     "ua": "Mozilla/5.0 (Linux; Android 9; Infinix Neo Build/RP1A.240312.313) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.7037.209 Mobile Safari/537.36 EdgA/119.0.7037.209",
-    "url": "N/A"
-  },
-  {
-    "time": "18:12:52 20/7/2026",
-    "action": "device_id_reset",
-    "taskId": "125-2",
-    "deviceId": "ca456af6-6787-4a4c-a83b-06a9359ac943",
-    "hash": "1bf3f177e83db1979d5a3024a05b7389c42583d84acb18d61f08679a548950d7",
-    "os": "Linux aarch64",
-    "lang": "en-US",
-    "ua": "Mozilla/5.0 (Linux; Android 12; OnePlus Focus Build/RP1A.220721.600) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4812.189 Mobile Safari/537.36",
     "url": "N/A"
   }
 ]
