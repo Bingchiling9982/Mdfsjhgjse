@@ -1,5 +1,16 @@
 [
   {
+    "time": "18:09:44 20/7/2026",
+    "action": "device_id_reset",
+    "taskId": "125-2",
+    "deviceId": "7974346d-aa0e-4286-b7f5-d6e62f4897a9",
+    "hash": "e5e503e7b1bd7468f8fdb0828a8d1ce65e4f18289c686b4ae7bdb4bab6a924f8",
+    "os": "Linux aarch64",
+    "lang": "en-US",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Asus Pro+ Build/SKQ1.210605.502) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.4190.250 Mobile Safari/537.36 OPR/66.0.0.0",
+    "url": "N/A"
+  },
+  {
     "time": "18:08:59 20/7/2026",
     "action": "device_id_reset",
     "taskId": "220-2",
@@ -1087,16 +1098,5 @@
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Linux; Android 14; Oppo Neo Build/TP1A.230519.756) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.5027.284 Mobile Safari/537.36",
     "url": "www.beautyandhealth.com.mx"
-  },
-  {
-    "time": "17:22:16 20/7/2026",
-    "action": "device_id_reset",
-    "taskId": "destination",
-    "deviceId": "688f89e9-cb46-4a41-ac76-1086ffd86684",
-    "hash": "FAKE-c7af66d878ef76fdefffd195e50f00b864feabca6f739293888228fd927cdccc",
-    "os": "Linux aarch64",
-    "lang": "vi-VN",
-    "ua": "Mozilla/5.0 (Linux; Android 14; Oppo Neo Build/TP1A.230519.756) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.5027.284 Mobile Safari/537.36",
-    "url": "N/A"
   }
 ]
