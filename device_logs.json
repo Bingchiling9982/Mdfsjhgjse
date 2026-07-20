@@ -1,5 +1,16 @@
 [
   {
+    "time": "14:34:15 20/7/2026",
+    "action": "script_loaded",
+    "taskId": "55-2",
+    "deviceId": "6caf580d-9111-4779-ba38-7a536aeceda6",
+    "hash": "FAKE-8617fd358e1736bb19efd65ca19b7494e9bbcd1f5e3527977d3199f6c7702320",
+    "os": "Linux aarch64",
+    "lang": "ar-SA",
+    "ua": "Mozilla/5.0 (Linux; Android 14; Motorola GT Build/SKQ1.231107.692) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.7743.110 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "14:33:58 20/7/2026",
     "action": "script_loaded",
     "taskId": "86-2",
@@ -1086,17 +1097,6 @@
     "os": "Linux aarch64",
     "lang": "en-US",
     "ua": "Mozilla/5.0 (Linux; Android 9; Motorola Ultra Build/SP1A.220821.439) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.2783.64 Mobile Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "13:47:50 20/7/2026",
-    "action": "device_id_reset",
-    "taskId": "103-2",
-    "deviceId": "dfb258c8-50bd-4bc7-a6ef-537257274a42",
-    "hash": "7f3b71e1a53bb831eba71f573364aadb031d39e81398a0e2d23c59777a54f7be",
-    "os": "Linux aarch64",
-    "lang": "ar-SA",
-    "ua": "Mozilla/5.0 (Linux; Android 13; Realme Focus Build/SP1A.221117.787) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.5682.7 Mobile Safari/537.36",
     "url": "N/A"
   }
 ]
