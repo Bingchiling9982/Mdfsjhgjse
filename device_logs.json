@@ -1,5 +1,16 @@
 [
   {
+    "time": "20:19:31 20/7/2026",
+    "action": "device_id_reset",
+    "taskId": "218-4",
+    "deviceId": "476ff157-9dd2-4e21-b99c-daf0971ad488",
+    "hash": "3ffbc56f8263aa7f980291db0423e7e5095c18013707e5fa173f8d4a2388f331",
+    "os": "Linux aarch64",
+    "lang": "en-US",
+    "ua": "Mozilla/5.0 (Linux; Android 13; ZTE Vision Build/SKQ1.230303.571) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.4958.52 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "20:18:37 20/7/2026",
     "action": "device_id_reset",
     "taskId": "het-ma",
@@ -1083,17 +1094,6 @@
     "taskId": "125-2",
     "deviceId": "06a6f649-09df-4a5b-839a-8b8736b30769",
     "hash": "ba5263d42f6bafebdcaecfc0a9ad890b1b1089898c1336a94c597621a0477803",
-    "os": "Linux aarch64",
-    "lang": "en-US",
-    "ua": "Mozilla/5.0 (Linux; Android 12; OnePlus FE Build/TP1A.230914.661) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.4054.289 Mobile Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "18:34:39 20/7/2026",
-    "action": "device_id_reset",
-    "taskId": "125-2",
-    "deviceId": "c3d8e898-ef4b-4297-8665-9271c17afb65",
-    "hash": "85191df3f24f94728cd8c70588f1f6b7a57dda30fbfd945fe094e6a66d7a913d",
     "os": "Linux aarch64",
     "lang": "en-US",
     "ua": "Mozilla/5.0 (Linux; Android 12; OnePlus FE Build/TP1A.230914.661) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.4054.289 Mobile Safari/537.36",
