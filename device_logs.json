@@ -1,5 +1,16 @@
 [
   {
+    "time": "16:28:54 20/7/2026",
+    "action": "script_loaded",
+    "taskId": "44-2",
+    "deviceId": "1c5e861e-7ca4-4099-82cd-5cdff5499150",
+    "hash": "9077e1a9bff9d33d837a5b549c6e9a285c61f3c0d7d3a09f786e739c1797e2c2",
+    "os": "Linux aarch64",
+    "lang": "en-AU",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Asus GT Build/RP1A.231223.140) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.7479.199 Mobile Safari/537.36 OPR/62.0.0.0",
+    "url": "N/A"
+  },
+  {
     "time": "16:28:25 20/7/2026",
     "action": "script_loaded",
     "taskId": "44-2",
@@ -1087,16 +1098,5 @@
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "url": "N/A"
-  },
-  {
-    "time": "15:23:33 20/7/2026",
-    "action": "get_task_link",
-    "taskId": "44-2",
-    "deviceId": "06e8a74c-1cec-4c96-8a00-fed3686077ec",
-    "hash": "FAKE-74450c10fc30b5b3cb63573721fe1ccb4465d7199f64a9f8d9bd4a24547fd440",
-    "os": "Linux aarch64",
-    "lang": "th-TH",
-    "ua": "Mozilla/5.0 (Linux; Android 13; Xiaomi Vision Build/SKQ1.201022.800) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.7540.3 Mobile Safari/537.36 SamsungBrowser/15.0",
-    "url": "shhbet800.com"
   }
 ]
