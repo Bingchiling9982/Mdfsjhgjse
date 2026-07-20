@@ -1,5 +1,16 @@
 [
   {
+    "time": "16:31:39 20/7/2026",
+    "action": "script_loaded",
+    "taskId": "218-2",
+    "deviceId": "5b66ef07-0b3e-4674-90ca-e1920b14fe9e",
+    "hash": "FAKE-ceb69a43a8fede369b404a4f71ff85a07276377846b8060d95703c8ec9680586",
+    "os": "Linux aarch64",
+    "lang": "fr-FR",
+    "ua": "Mozilla/5.0 (Linux; Android 12; Asus Vision Build/SKQ1.220222.896) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.3187.12 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "16:31:34 20/7/2026",
     "action": "script_loaded",
     "taskId": "55-2",
@@ -1086,17 +1097,6 @@
     "os": "Linux aarch64",
     "lang": "en-AU",
     "ua": "Mozilla/5.0 (Linux; Android 14; Xiaomi Pro+ Build/RKQ1.230708.535) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4068.295 Mobile Safari/537.36 SamsungBrowser/23.0",
-    "url": "N/A"
-  },
-  {
-    "time": "15:30:54 20/7/2026",
-    "action": "script_loaded",
-    "taskId": "55-2",
-    "deviceId": "3e6e14db-aadd-4291-94f0-d7143b268da0",
-    "hash": "7cf02fea7ce2554c55f6552f0b2769be78580fa68ee3f06cd579971ff680735d",
-    "os": "Linux aarch64",
-    "lang": "pt-BR",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Oppo Note Build/SP1A.200807.963) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6697.260 Mobile Safari/537.36 SamsungBrowser/22.0",
     "url": "N/A"
   }
 ]
