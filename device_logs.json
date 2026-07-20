@@ -1,5 +1,16 @@
 [
   {
+    "time": "19:29:45 20/7/2026",
+    "action": "device_id_reset",
+    "taskId": "125-2",
+    "deviceId": "ddf838ca-9750-4341-8da1-f06c74a41f87",
+    "hash": "93a5bb9858a360ed7124505e4d8dcf14620fe9af8883d51eefc31a6ba41dae8c",
+    "os": "Linux aarch64",
+    "lang": "en-US",
+    "ua": "Mozilla/5.0 (Linux; Android 11; Infinix Pro Build/UP1A.221204.527) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.2165.266 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "19:27:40 20/7/2026",
     "action": "device_id_reset",
     "taskId": "220-2",
@@ -1086,17 +1097,6 @@
     "os": "Win32",
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "17:37:37 20/7/2026",
-    "action": "device_id_reset",
-    "taskId": "220-2",
-    "deviceId": "cbf81723-d03b-448d-bc2c-b89fd723a940",
-    "hash": "0ee4e4f684afcc2d32d236f9bdc7904200209c0aef6d92a62ddb0e4588b83319",
-    "os": "Linux aarch64",
-    "lang": "en-US",
-    "ua": "Mozilla/5.0 (Linux; Android 14; Oppo GT Build/SKQ1.220302.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.4185.269 Mobile Safari/537.36 SamsungBrowser/22.0",
     "url": "N/A"
   }
 ]
