@@ -1,5 +1,16 @@
 [
   {
+    "time": "18:11:09 20/7/2026",
+    "action": "device_id_reset",
+    "taskId": "220-2",
+    "deviceId": "0ae99d50-daf4-454e-82e0-78f68da02466",
+    "hash": "0c94c52f5ea7b57da4fd70cc0b3426c694ccaf30f5404ebb6251c3d136760d55",
+    "os": "Linux aarch64",
+    "lang": "en-US",
+    "ua": "Mozilla/5.0 (Linux; Android 12; OnePlus Focus Build/RP1A.220721.600) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4812.189 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "18:09:44 20/7/2026",
     "action": "device_id_reset",
     "taskId": "125-2",
@@ -1087,16 +1098,5 @@
     "lang": "en-US",
     "ua": "Mozilla/5.0 (Linux; Android 13; ZTE Power Build/TP1A.211108.590) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.3578.180 Mobile Safari/537.36",
     "url": "N/A"
-  },
-  {
-    "time": "17:22:35 20/7/2026",
-    "action": "get_task_link",
-    "taskId": "220-2",
-    "deviceId": "ERR-yzg0bgs2wl9",
-    "hash": "ERR-2gg9hkesy3g",
-    "os": "Linux aarch64",
-    "lang": "vi-VN",
-    "ua": "Mozilla/5.0 (Linux; Android 14; Oppo Neo Build/TP1A.230519.756) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.5027.284 Mobile Safari/537.36",
-    "url": "www.beautyandhealth.com.mx"
   }
 ]
