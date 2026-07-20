@@ -1,5 +1,16 @@
 [
   {
+    "time": "16:12:18 20/7/2026",
+    "action": "device_id_reset",
+    "taskId": "44-2",
+    "deviceId": "44dc1296-5349-41b4-92ed-4d2050ca4caa",
+    "hash": "FAKE-b0552c5dbea34df550db60f2123fda5ac177629d0401caf2f84a28eceb8f3ac0",
+    "os": "Win32",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "16:12:06 20/7/2026",
     "action": "script_loaded",
     "taskId": "44-2",
@@ -1086,17 +1097,6 @@
     "os": "Win32",
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "15:15:15 20/7/2026",
-    "action": "script_loaded",
-    "taskId": "183-2",
-    "deviceId": "f870b91f-74e2-408a-9b03-a84fde6a6e1c",
-    "hash": "FAKE-4ebc4152cc63e1e99af7ce9bee2f1a7d771b7c413d05f71165cf96893e1e02ca",
-    "os": "Linux aarch64",
-    "lang": "id-ID",
-    "ua": "Mozilla/5.0 (Linux; Android 13; Nokia Neo Build/SP1A.220323.560) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.4240.224 Mobile Safari/537.36",
     "url": "N/A"
   }
 ]
