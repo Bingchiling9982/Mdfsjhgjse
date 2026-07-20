@@ -1,5 +1,16 @@
 [
   {
+    "time": "18:17:58 20/7/2026",
+    "action": "device_id_reset",
+    "taskId": "125-2",
+    "deviceId": "9a564642-74a0-4b0c-b8eb-151e11a02cca",
+    "hash": "e48f0ed18e321bfeeb1cecbdd7c22a569e7a923363f36a0632c32c762730f467",
+    "os": "Linux aarch64",
+    "lang": "en-US",
+    "ua": "Mozilla/5.0 (Linux; Android 14; Xiaomi Neo Build/RP1A.240328.339) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.3851.51 Mobile Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "18:17:25 20/7/2026",
     "action": "device_id_reset",
     "taskId": "220-2",
@@ -1086,17 +1097,6 @@
     "os": "Win32",
     "lang": "vi-VN",
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "url": "N/A"
-  },
-  {
-    "time": "17:29:28 20/7/2026",
-    "action": "device_id_reset",
-    "taskId": "220-2",
-    "deviceId": "c1212a89-ad63-4ac7-8496-4b03b4951167",
-    "hash": "85baaae1091f7b740af3710aa52620bcc554616a12a7791eba9861f608df410b",
-    "os": "Linux aarch64",
-    "lang": "en-US",
-    "ua": "Mozilla/5.0 (Linux; Android 11; Infinix Pro Build/TP1A.211205.718) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.2527.200 Mobile Safari/537.36",
     "url": "N/A"
   }
 ]
