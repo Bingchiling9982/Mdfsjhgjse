@@ -1,5 +1,16 @@
 [
   {
+    "time": "15:28:36 20/7/2026",
+    "action": "device_id_reset",
+    "taskId": "125-2",
+    "deviceId": "7a32daf9-91f7-4ab4-a9ec-175bac06ba3b",
+    "hash": "FAKE-7032d7ee108903f3b368406d848d54df5260037570d7296657f60d8d682bdd56",
+    "os": "Win32",
+    "lang": "vi-VN",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "url": "N/A"
+  },
+  {
     "time": "15:28:03 20/7/2026",
     "action": "script_loaded",
     "taskId": "86-2",
@@ -1087,16 +1098,5 @@
     "lang": "id-ID",
     "ua": "Mozilla/5.0 (Linux; Android 9; Oppo Ultra Build/RP1A.200408.317) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.3666.84 Mobile Safari/537.36",
     "url": "unali.io"
-  },
-  {
-    "time": "14:50:56 20/7/2026",
-    "action": "script_loaded",
-    "taskId": "125-2",
-    "deviceId": "4283b814-2262-4dee-a9b9-ebe96c95dd0a",
-    "hash": "1efdff239505fdaed1b1a407624d7b7918fd363b19ba1aac09878cc0f5794274",
-    "os": "Linux aarch64",
-    "lang": "id-ID",
-    "ua": "Mozilla/5.0 (Linux; Android 9; Oppo Ultra Build/RP1A.200408.317) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.3666.84 Mobile Safari/537.36",
-    "url": "N/A"
   }
 ]
